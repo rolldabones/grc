@@ -95,6 +95,7 @@ Maintained by the same author and designed to interoperate with this method:
 - [GRC Workbook](https://github.com/rolldabones/grc-workbook): module-by-module workbook with a scored Governance Test and artifact index.
 - [GRCnext™ Copilot](https://github.com/rolldabones/grcnext-copilot): a build framework for GRC copilots on five primitives (Services, Tolerances, Pipes, Switches, Exits).
 - [Slow AI Kitchen](https://github.com/rolldabones/slow-ai-kitchen): a 12-step methodology for deliberate AI adoption.
+- [The Definition of Done Is the Work of the Human](https://github.com/rolldabones/definition-of-done): doctrine and instruments for defining and confirming when AI-assisted work is done.
 - [AI Audit DD Checklist](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/main/AI_Audit_Due_Diligence_Checklist_v4_7.md): 187-question due diligence instrument (App I).
 - [AI GRC Master Reference](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/main/AI_GRC_Master_Reference_v7_7.md): consolidated regulatory and framework reference (App J).
 
