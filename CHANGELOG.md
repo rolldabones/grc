@@ -1,5 +1,14 @@
 # Changelog
 
+## v2.1.0 (2026-07-15)
+
+Ecosystem integration release under the repository improvement program. Three-part semantic versioning applies from this release; prior releases retain their two-part labels.
+
+1. **Part of the ecosystem section (new).** Links the canonical ECOSYSTEM.md in the profile repository plus five nearest neighbors (grc-workbook, GRCnext-Copilot, slow-ai-kitchen, definition-of-done, AI-Impact-Assessment-Tool) and the two book-appendix instruments, placed before License and attribution.
+2. **Companion resources consolidated.** The prior Companion resources section is superseded by the ecosystem section; every link it carried is preserved there.
+3. **Version header.** README header updated to 2.1.0 with a CHANGELOG link.
+4. **No content changes.** The method, build guides, prompts, templates, NOTICE and LICENSE are unchanged.
+
 ## v2.0 (2026-07-04)
 
 Full restructure from a single README to a complete method repository.
