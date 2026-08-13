@@ -1,5 +1,12 @@
 # Changelog
 
+## v2.1.1 (2026-08-13)
+
+License metadata sweep. An `SPDX-License-Identifier: CC-BY-SA-4.0` line and the canonical Creative Commons legal code are now carried inside the existing license file. The filename is unchanged and the human-readable summary is retained above the legal code. This repository stays on ShareAlike rather than NonCommercial: its material adapts the OCEG GRC Capability Model 3.5, distributed under CC BY-SA, and a NonCommercial variant is not share-alike compatible with that source.
+
+- The primary audience is automated intake and provenance tooling, which reads the SPDX tag rather than prose. Automated license detection previously reported nothing across all twenty-one repositories in this account.
+- No change to the licence in force. The identifier records what was already true.
+
 ## v2.1.0 (2026-07-15)
 
 Ecosystem integration release under the repository improvement program. Three-part semantic versioning applies from this release; prior releases retain their two-part labels.

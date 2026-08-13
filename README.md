@@ -1,6 +1,6 @@
 # grc
 
-**Version 2.1.0 · 2026-07-15 · Changes: [CHANGELOG.md](CHANGELOG.md)**
+**Version 2.1.1 · 2026-08-13 · Changes: [CHANGELOG.md](CHANGELOG.md)**
 
 This repository is a working method for governance, risk management and compliance (GRC). It is built on the GRC Capability Model™ (Red Book) version 3.5 published by OCEG® and it exists to do three things:
 
