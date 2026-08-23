@@ -1,6 +1,6 @@
 # grc
 
-**Version 2.2.0 · 2026-08-23**
+**Version 2.2.0 · 2026-08-23 · [CHANGELOG](CHANGELOG.md)**
 
 This repository is a working method for governance, risk management and compliance (GRC). It is built on the GRC Capability Model™ (Red Book) version 3.5 published by OCEG® and it exists to do three things:
 
@@ -89,15 +89,20 @@ How the pieces fit: `01-method/` explains the model, `02-build-guides/` shows it
 3. **Depth.** Element treatments here are summaries in original wording. The authoritative model, including detailed practices, is the Red Book itself, available from OCEG at oceg.org.
 4. **Prompts.** Every prompt is model agnostic, requires declared inputs and ends in a mandatory human review gate. Prompts produce drafts. Humans own decisions.
 
-## Companion resources
+## Part of the ecosystem
 
-Maintained by the same author and designed to interoperate with this method:
+This method repository is one component of a larger body of AI governance, risk management and compliance work. The canonical map of all repositories is [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) in the profile repository.
 
-- [GRC Workbook](https://github.com/rolldabones/grc-workbook): module-by-module workbook with a scored Governance Test and artifact index.
-- [GRCnext™ Copilot](https://github.com/rolldabones/grcnext-copilot): a build framework for GRC copilots on five primitives (Services, Tolerances, Pipes, Switches, Exits).
-- [Slow AI Kitchen](https://github.com/rolldabones/slow-ai-kitchen): a 12-step methodology for deliberate AI adoption.
-- [AI Audit DD Checklist](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/main/AI_Audit_Due_Diligence_Checklist_v4_7.md): 187-question due diligence instrument (App I).
-- [AI GRC Master Reference](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/main/AI_GRC_Master_Reference_v7_7.md): consolidated regulatory and framework reference (App J).
+Nearest neighbors:
+- [grc-workbook](https://github.com/rolldabones/grc-workbook): the module-by-module workbook built on this method, with a scored Governance Test and artifact index
+- [GRCnext-Copilot](https://github.com/rolldabones/GRCnext-Copilot): a build framework for GRC copilots on five primitives (Services, Tolerances, Pipes, Switches, Exits)
+- [slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen): the 12-step methodology for deliberate, governed AI adoption
+- [definition-of-done](https://github.com/rolldabones/definition-of-done): the acceptance doctrine, how done is defined before work begins and confirmed before reliance
+- [AI-Impact-Assessment-Tool](https://github.com/rolldabones/AI-Impact-Assessment-Tool): pre-deployment and lifecycle impact assessment aligned to the EU AI Act, NIST AI RMF, ISO/IEC 42001 and ISO/IEC 42005
+
+Book-appendix instruments:
+- [AI Audit DD Checklist](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/main/AI_Audit_Due_Diligence_Checklist_v4_7.md): 187-question due diligence instrument (App I)
+- [AI GRC Master Reference](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/main/AI_GRC_Master_Reference_v7_7.md): consolidated regulatory and framework reference (App J)
 
 ## License and attribution
 
