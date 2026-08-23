@@ -1,6 +1,6 @@
 # grc
 
-**Version 2.1.1 · 2026-08-13 · Changes: [CHANGELOG.md](CHANGELOG.md)**
+**Version 2.1 · 2026-08-23**
 
 This repository is a working method for governance, risk management and compliance (GRC). It is built on the GRC Capability Model™ (Red Book) version 3.5 published by OCEG® and it exists to do three things:
 
@@ -50,6 +50,7 @@ grc/
 |-- LICENSE.md                       CC BY-SA 4.0
 |-- NOTICE.md                        OCEG attribution, trademarks, derivation scope
 |-- CHANGELOG.md                     Version history
+|-- FOUR-FRAMES.md                   Four-frames geopolitical sense-making entry
 |-- 01-method/
 |   |-- principled-performance.md    PP, the ten Universal Outcomes, vocabulary
 |   |-- operating-cycle.md           Omega in operation: cadence, accountability, failure modes
@@ -69,7 +70,7 @@ grc/
     `-- control-matrix.md            policy-template.md    review-assurance-plan.md
 ```
 
-How the pieces fit: `01-method/` explains the model, `02-build-guides/` shows it building something, `03-prompts/` accelerates the drafting work inside each build and `04-templates/` receives the outputs as operating artifacts. The cycle then runs on those artifacts.
+How the pieces fit: `01-method/` explains the model, `02-build-guides/` shows it building something, `03-prompts/` accelerates the drafting work inside each build and `04-templates/` receives the outputs as operating artifacts. The cycle then runs on those artifacts. `FOUR-FRAMES.md` stands upstream of all four: a sense-making entry that reads the external environment through four mythological system-hypotheses with pre-registered discriminators, used alongside PESTLE and STEEPLE, whose weighted readings feed L1 External Context; its first scored exhibit is Carney's Davos Rupture (19 January 2026), and its public exposition is [*The Gods of the New Great Game*](https://redcaps.substack.com/p/the-gods-of-the-new-great-game).
 
 ## Quick start: route by starting point
 
@@ -88,18 +89,15 @@ How the pieces fit: `01-method/` explains the model, `02-build-guides/` shows it
 3. **Depth.** Element treatments here are summaries in original wording. The authoritative model, including detailed practices, is the Red Book itself, available from OCEG at oceg.org.
 4. **Prompts.** Every prompt is model agnostic, requires declared inputs and ends in a mandatory human review gate. Prompts produce drafts. Humans own decisions.
 
-## Part of the ecosystem
+## Companion resources
 
-This repository is one component of a larger body of AI governance, risk management and compliance work. The canonical map of all repositories is [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) in the profile repository.
+Maintained by the same author and designed to interoperate with this method:
 
-Nearest neighbors:
-- [grc-workbook](https://github.com/rolldabones/grc-workbook): the module-by-module instrument that builds, augments and audits the capability this method describes, closing on the thirty-seven item Governance Test
-- [GRCnext-Copilot](https://github.com/rolldabones/GRCnext-Copilot): the optionality assessor that runs the author's five operating primitives (Services, Tolerances, Pipes, Switches and Exits) as an evidence-led scoring engine on top of this model
-- [slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen): the 12-step governed AI methodology; its Feast and Restaurant stages put this model's operating cycle and element discipline to work on AI adoption
-- [definition-of-done](https://github.com/rolldabones/definition-of-done): doctrine and instruments for defining and confirming when AI-assisted work is done; the human review gate every prompt in this repository ends in
-- [AI-Impact-Assessment-Tool](https://github.com/rolldabones/AI-Impact-Assessment-Tool): the pre-deployment gate that operationalizes the AI governance overlay in build guide D at the decision point
-
-Two working instruments maintained in the [book repository](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip) interoperate with this method: the [AI Audit and Due Diligence Checklist](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/main/AI_Audit_Due_Diligence_Checklist_v4_7.md) (App I, 187 questions) and the [AI GRC Master Reference](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/main/AI_GRC_Master_Reference_v7_7.md) (App J).
+- [GRC Workbook](https://github.com/rolldabones/grc-workbook): module-by-module workbook with a scored Governance Test and artifact index.
+- [GRCnext™ Copilot](https://github.com/rolldabones/grcnext-copilot): a build framework for GRC copilots on five primitives (Services, Tolerances, Pipes, Switches, Exits).
+- [Slow AI Kitchen](https://github.com/rolldabones/slow-ai-kitchen): a 12-step methodology for deliberate AI adoption.
+- [AI Audit DD Checklist](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/main/AI_Audit_Due_Diligence_Checklist_v4_7.md): 187-question due diligence instrument (App I).
+- [AI GRC Master Reference](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/main/AI_GRC_Master_Reference_v7_7.md): consolidated regulatory and framework reference (App J).
 
 ## License and attribution
 
