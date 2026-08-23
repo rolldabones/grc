@@ -1,5 +1,14 @@
 # Changelog
 
+## v2.2.0 (2026-08-23)
+
+FOUR-FRAMES.md added: the four-frames geopolitical sense-making entry (entry version v0.5, final).
+
+1. **Method entry (new).** Four mythological system-hypotheses (Greek, Norse, Kali Yuga, Mandate of Heaven) run as a portfolio with pre-registered discriminators, a quarterly scoring log and a standing bias register. Used alongside PESTLE and STEEPLE; feeds L1 External Context. First scored exhibit: Carney's Davos Rupture (19 January 2026).
+2. **Public exposition.** *The Gods of the New Great Game* (23 August 2026): https://redcaps.substack.com/p/the-gods-of-the-new-great-game
+3. **README.** Repository map and How-the-pieces-fit updated; version header advanced to 2.2.0.
+4. **No changes** to the method documents, build guides, prompts, templates, NOTICE or LICENSE.
+
 ## v2.1.1 (2026-08-13)
 
 License metadata sweep. An `SPDX-License-Identifier: CC-BY-SA-4.0` line and the canonical Creative Commons legal code are now carried inside the existing license file. The filename is unchanged and the human-readable summary is retained above the legal code. This repository stays on ShareAlike rather than NonCommercial: its material adapts the OCEG GRC Capability Model 3.5, distributed under CC BY-SA, and a NonCommercial variant is not share-alike compatible with that source.
