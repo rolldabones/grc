@@ -1,5 +1,12 @@
 # Changelog
 
+## v2.2.1 (2026-08-23)
+
+Link correction in the README's Part of the ecosystem section.
+
+- The two book-appendix links pointed at superseded filenames (v4_7, v7_7). Corrected to AI_Audit_Due_Diligence_Checklist_v4_10.md and AI_GRC_Master_Reference_v7_9.md, the filenames in force in the book repository. The stale names entered with the v2.2.0 restoration, which reproduced the v2.1.0-era description without re-verifying the link targets.
+- No other changes. README version header advanced to 2.2.1.
+
 ## v2.2.0 (2026-08-23)
 
 FOUR-FRAMES.md added: the four-frames geopolitical sense-making entry (entry version v0.5, final). The ecosystem section recorded in v2.1.0, found missing from the live README, is restored in the same release.
