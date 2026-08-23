@@ -1,6 +1,6 @@
 # grc
 
-**Version 2.1 · 2026-08-23**
+**Version 2.2.0 · 2026-08-23**
 
 This repository is a working method for governance, risk management and compliance (GRC). It is built on the GRC Capability Model™ (Red Book) version 3.5 published by OCEG® and it exists to do three things:
 
