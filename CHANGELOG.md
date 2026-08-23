@@ -2,12 +2,13 @@
 
 ## v2.2.0 (2026-08-23)
 
-FOUR-FRAMES.md added: the four-frames geopolitical sense-making entry (entry version v0.5, final).
+FOUR-FRAMES.md added: the four-frames geopolitical sense-making entry (entry version v0.5, final). The ecosystem section recorded in v2.1.0, found missing from the live README, is restored in the same release.
 
 1. **Method entry (new).** Four mythological system-hypotheses (Greek, Norse, Kali Yuga, Mandate of Heaven) run as a portfolio with pre-registered discriminators, a quarterly scoring log and a standing bias register. Used alongside PESTLE and STEEPLE; feeds L1 External Context. First scored exhibit: Carney's Davos Rupture (19 January 2026).
 2. **Public exposition.** *The Gods of the New Great Game* (23 August 2026): https://redcaps.substack.com/p/the-gods-of-the-new-great-game
-3. **README.** Repository map and How-the-pieces-fit updated; version header advanced to 2.2.0.
-4. **No changes** to the method documents, build guides, prompts, templates, NOTICE or LICENSE.
+3. **README.** Repository map and How-the-pieces-fit updated; version header advanced to 2.2.0 with a CHANGELOG link.
+4. **Restoration.** The Part of the ecosystem section recorded in v2.1.0 was absent from the live README; restored before License and attribution, superseding Companion resources with every link preserved.
+5. **No changes** to the method documents, build guides, prompts, templates, NOTICE or LICENSE.
 
 ## v2.1.1 (2026-08-13)
 
