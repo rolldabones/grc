@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you cite this work, please use the metadata below."
+title: "grc"
+authors:
+  - family-names: "Paik"
+    given-names: "Son-U Michael"
+version: 2.2.2
+date-released: "2026-09-06"
+license: CC-BY-SA-4.0
+repository-code: "https://github.com/rolldabones/grc"
+abstract: "The foundation: the working method on the OCEG GRC Capability Model 3.5 spine, with four build guides, a 21-prompt pack, six operating templates and the four-frames sense-making entry."
