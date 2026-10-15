@@ -1,6 +1,6 @@
 # grc
 
-**Version 2.2.2 · 2026-09-06 · [CHANGELOG](CHANGELOG.md)**
+**Version 2.2.3 · 2026-10-15 · [CHANGELOG](CHANGELOG.md)**
 
 This repository is a working method for governance, risk management and compliance (GRC). It is built on the GRC Capability Model™ (Red Book) version 3.5 published by OCEG® and it exists to do three things:
 
@@ -101,8 +101,8 @@ Nearest neighbors:
 - [AI-Impact-Assessment-Tool](https://github.com/rolldabones/AI-Impact-Assessment-Tool): pre-deployment and lifecycle impact assessment aligned to the EU AI Act, NIST AI RMF, ISO/IEC 42001 and ISO/IEC 42005
 
 Book-appendix instruments:
-- [AI Audit DD Checklist](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/main/AI_Audit_Due_Diligence_Checklist_v4_10.md): 187-question due diligence instrument (App I)
-- [AI GRC Master Reference](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/main/AI_GRC_Master_Reference_v7_9.md): consolidated regulatory and framework reference (App J)
+- [AI Audit DD Checklist](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/main/AI_Audit_Due_Diligence_Checklist_v4_11.md): 198-question due diligence instrument (App I)
+- [AI GRC Master Reference](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/main/AI_GRC_Master_Reference_v7_10.md): consolidated regulatory and framework reference (App J)
 
 ## License and attribution
 
@@ -110,7 +110,7 @@ Original content in this repository is licensed under CC BY-SA 4.0 (`LICENSE.md`
 
 ## How to Cite
 
-> Paik, Son-U Michael. *grc*, v2.2.2. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc
+> Paik, Son-U Michael. *grc*, v2.2.3. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 

@@ -1,5 +1,12 @@
 # Changelog
 
+## v2.2.3 (2026-10-15)
+
+Pointer correction, session T1 of the whole-account review of 15 October 2026 (KST).
+
+- **`README.md`, Book-appendix instruments.** The Checklist line read "187-question" against an instrument of 197 questions since v4.10 (13 August 2026) and 198 since v4.11 (15 October 2026); corrected to 198. Both links re-pointed to the reissued filenames, `AI_Audit_Due_Diligence_Checklist_v4_11.md` and `AI_GRC_Master_Reference_v7_10.md`, released the same day in `final-liability-rests-with-the-human-book-wip` v1.8.0. Found by reviewer report 05, item A17.
+- Masthead, How to Cite and `CITATION.cff` to v2.2.3 in lockstep. All other files unchanged byte for byte.
+
 ## v2.2.2 (2026-09-06)
 
 Citation infrastructure, doctrine citation line and lockstep maintenance. Session C of the September 2026 improvement pack, one patch release per repository across all 21 public repositories.
