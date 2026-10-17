@@ -23,3 +23,7 @@ One row per assignable requirement, never per instrument. Elements: L1, A3. Prom
 1. Decompose before assigning; "comply with the statute" is not a requirement, it is a wish.
 2. Voluntary commitments and contract clauses are obligations too; L4 feeds this register.
 3. Every surprise change (learned from a regulator or headline rather than the watchlist) gets a root cause in the scanning design.
+
+---
+
+**Final Liability rests with the Human.**

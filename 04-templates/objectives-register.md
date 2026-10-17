@@ -23,3 +23,7 @@ The spine of the capability. Every risk, opportunity, obligation and control ult
 1. Both growth and preservation objectives belong here; a register that is all growth is blind on one side.
 2. Retire objectives explicitly and keep the row; orphaned children reveal broken cascades.
 3. An activity that traces to no objective is either missing its objective or is a candidate for stopping.
+
+---
+
+**Final Liability rests with the Human.**

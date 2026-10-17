@@ -1,6 +1,6 @@
 # grc
 
-**Version 2.2.3 · 2026-10-15 · [CHANGELOG](CHANGELOG.md)**
+**Version 2.2.4 · 2026-10-17 · [CHANGELOG](CHANGELOG.md)**
 
 This repository is a working method for governance, risk management and compliance (GRC). It is built on the GRC Capability Model™ (Red Book) version 3.5 published by OCEG® and it exists to do three things:
 
@@ -50,6 +50,7 @@ grc/
 |-- LICENSE.md                       CC BY-SA 4.0
 |-- NOTICE.md                        OCEG attribution, trademarks, derivation scope
 |-- CHANGELOG.md                     Version history
+|-- CITATION.cff                     Machine-readable citation
 |-- FOUR-FRAMES.md                   Four-frames geopolitical sense-making entry
 |-- 01-method/
 |   |-- principled-performance.md    PP, the ten Universal Outcomes, vocabulary
@@ -110,7 +111,7 @@ Original content in this repository is licensed under CC BY-SA 4.0 (`LICENSE.md`
 
 ## How to Cite
 
-> Paik, Son-U Michael. *grc*, v2.2.3. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc
+> Paik, Son-U Michael. *grc*, v2.2.4. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 

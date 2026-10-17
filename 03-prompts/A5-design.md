@@ -59,3 +59,7 @@ HUMAN REVIEW GATE
 End with this exact line: DRAFT FOR HUMAN REVIEW. Decision authority and final
 liability rest with the accountable human owner.
 ```
+
+---
+
+**Final Liability rests with the Human.**

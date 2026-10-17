@@ -24,3 +24,7 @@ Every control with its reason, operator, evidence and test. Elements: A5, P1. Pr
 1. Run the two-way gap check on cadence: linked items with no control; controls with no linked item.
 2. When a control fails, the row shows it; hiding failures in email defeats the matrix.
 3. Reuse before building; the matrix is also the catalog.
+
+---
+
+**Final Liability rests with the Human.**

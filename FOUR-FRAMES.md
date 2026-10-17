@@ -1,7 +1,8 @@
 # Four Frames for the New Great Game
 
-**GRCnext™ method entry · v0.5 · [✓ final]**
-Author: Michael (personal frames) · Date: 2026-08-23 (Asia/Seoul, UTC+9) · Supersedes: v0.4 and earlier (all 2026-08-23)
+**GRCnext™ method entry · v0.5.1 · [✓ final]**
+Author: Son-U Michael Paik · CEO, GRC Solutions Korea (personal frames) · Date: 2026-08-23 (Asia/Seoul, UTC+9) · Supersedes: v0.4 and earlier (all 2026-08-23)
+Amendment note, 17 October 2026 (KST): v0.5.1 corrects house style only (the byline to the account form, the GRCnext™ mark in Section 4 and one serial comma in Section 9); no frame, indicator or reading changed. Session T3 of the whole-account review of 15 October 2026 (reviewer report 07, item C6).
 Ecosystem placement: grc repository (Layer 1: Doctrine and method) · [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) · Public exposition: [*The Gods of the New Great Game*](https://redcaps.substack.com/p/the-gods-of-the-new-great-game) (23 August 2026)
 
 ---
@@ -109,7 +110,7 @@ The surviving set is not empty. As of this writing, three claims hold in all fou
 1. It dissolves the v0.1 core thesis. If Kali Yuga is the better fit, "US as Loki" is a category error: attributing to agency what belongs to entropy.
 2. It denies the baseline. Classical chronology places the whole modern era deep inside Kali Yuga. The frame never accepted 1945-2020 as normalcy; it reads the liberal-order decades as a local plateau inside a long decline. This checks Western declinism, which silently treats the 1990s as the natural state of the world.
 
-**Strategy implication.** Not victory and not restoration: preservation. In a degenerating age the rational strategy is building arks: institutions in miniature that carry order through the dark (canons, standards, professional ethics, auditable systems, communities of practice). Renewal is expected but distant and exogenous; no actor's strategy produces it. Note for GRCnext: this frame assigns the assurance profession a specific role. Audit, certification and verification are dharma-preservation vehicles: mechanisms for keeping truthfulness expensive to abandon in an information order where it is degrading.
+**Strategy implication.** Not victory and not restoration: preservation. In a degenerating age the rational strategy is building arks: institutions in miniature that carry order through the dark (canons, standards, professional ethics, auditable systems, communities of practice). Renewal is expected but distant and exogenous; no actor's strategy produces it. Note for GRCnext™: this frame assigns the assurance profession a specific role. Audit, certification and verification are dharma-preservation vehicles: mechanisms for keeping truthfulness expensive to abandon in an information order where it is degrading.
 
 **Questions the frame forces.** Is decay symmetric: run the same trust, corruption and rule-of-law series across the US, EU, China and the middle powers, and does any actor decouple from the decline? Which of the four feet is breaking fastest this year, and which institutions function as arks for that specific dimension? What was commodified this year that was not last year? And the reflexive one: is this analysis, and the commentary economy it belongs to, accelerating the decay it measures?
 
@@ -246,7 +247,7 @@ Initial portfolio weights: [to be set at first quarterly scoring and recorded he
 
 **What the taxonomies do.** PESTLE partitions the external macro-environment into six factor categories (Political, Economic, Social, Technological, Legal, Environmental); STEEPLE extends the set with an Ethical lens addressing corporate values and reputation. Their strengths are completeness, communicability and audit-friendliness: nothing goes unscanned, and the output is legible to any board.
 
-**What taxonomies cannot do.** A taxonomy is static. It carries no view of system dynamics: whether the environment being scanned is stable, decaying or changing hands, how factors interact, or which trajectory the signals are loading into. PESTLE files Carney's Davos speech under Political and stops there. In fairness, skilled practitioners extend PESTLE with trend and interaction analysis; the framework supplies the categories and the practitioner supplies the dynamics. This method makes that supplied layer explicit, written and scoreable.
+**What taxonomies cannot do.** A taxonomy is static. It carries no view of system dynamics: whether the environment being scanned is stable, decaying or changing hands, how factors interact or which trajectory the signals are loading into. PESTLE files Carney's Davos speech under Political and stops there. In fairness, skilled practitioners extend PESTLE with trend and interaction analysis; the framework supplies the categories and the practitioner supplies the dynamics. This method makes that supplied layer explicit, written and scoreable.
 
 **Division of labor.**
 

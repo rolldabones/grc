@@ -1,5 +1,14 @@
 # Changelog
 
+## v2.2.4 (2026-10-17)
+
+Closing line and house style, session T3 of the whole-account review of 15 October 2026 (KST).
+
+- **Closing line.** "Final Liability rests with the Human." added as the last line of the 21 prompt files, the six templates, `NOTICE.md` and this changelog, after the paste-ready fences so no prompt text changes. Found by reviewer report 07, item C1, and doc section 8.
+- **`FOUR-FRAMES.md` v0.5.1**, with a dated amendment note: byline in the account form, "GRCnext" given its mark in Section 4, one serial comma removed in Section 9 (report 07, item C6). No frame, indicator or reading changed.
+- **`README.md`.** The repository map lists `CITATION.cff` (report 07, item C7).
+- Masthead, How to Cite and `CITATION.cff` to v2.2.4 in lockstep. All other files unchanged byte for byte.
+
 ## v2.2.3 (2026-10-15)
 
 Pointer correction, session T1 of the whole-account review of 15 October 2026 (KST).
@@ -63,3 +72,7 @@ Full restructure from a single README to a complete method repository.
 ## v1.0 (last updated 2026-01-27)
 
 Initial release. Single README containing the core equation PP ≈ Ω(C | SP) ↑ UO, the 20-element enumeration, starting points SP0 to SP4 and the ten Universal Outcomes.
+
+---
+
+**Final Liability rests with the Human.**

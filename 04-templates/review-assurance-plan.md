@@ -30,3 +30,7 @@ Field notes: **Closure evidence** is defined at intake, not at closing time; clo
 
 1. The three tables reference each other: indicators surface findings, assurance tests what indicators cannot, the backlog closes what both discover.
 2. Report the plan on one page monthly; the cycle is alive when all three tables have moved.
+
+---
+
+**Final Liability rests with the Human.**

@@ -61,3 +61,7 @@ Linked CTL-ids:
 1. Every statement in section 4 appears in section 6's mapping; untraceable statements are cut or justified before approval.
 2. Plain language wins; a policy that needs a translator is not communicating expectations.
 3. One authoritative location per policy; everything else links to it.
+
+---
+
+**Final Liability rests with the Human.**

@@ -25,3 +25,7 @@ OCEG has distributed editions of the Red Book under Creative Commons Attribution
 ## No advice
 
 Nothing in this repository is legal advice, and nothing in it creates an attorney-client relationship. It is a method description. Application to any specific organization requires professional judgment under the laws that apply to that organization.
+
+---
+
+**Final Liability rests with the Human.**

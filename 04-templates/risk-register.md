@@ -24,3 +24,7 @@ One register for both sides of uncertainty, every row linked to an objective. El
 1. Objective linkage is mandatory at entry; a category-only register drifts generic.
 2. Track rating history; trajectory tells you more than position.
 3. Watch for assessment inflation and deflation across units; calibrate assessors, not just scales.
+
+---
+
+**Final Liability rests with the Human.**

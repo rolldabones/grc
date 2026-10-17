@@ -4,8 +4,8 @@ title: "grc"
 authors:
   - family-names: "Paik"
     given-names: "Son-U Michael"
-version: 2.2.3
-date-released: "2026-10-15"
+version: 2.2.4
+date-released: "2026-10-17"
 license: CC-BY-SA-4.0
 repository-code: "https://github.com/rolldabones/grc"
 abstract: "The foundation: the working method on the OCEG GRC Capability Model 3.5 spine, with four build guides, a 21-prompt pack, six operating templates and the four-frames sense-making entry."
