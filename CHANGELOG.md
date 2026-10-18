@@ -1,5 +1,12 @@
 # Changelog
 
+## v2.3.1 (2026-10-18)
+
+Link repair, session T8 of the whole-account review of 15 October 2026 (KST). Patch: the book repository reissued its two appendix instruments under new versioned filenames on the same day (AI Audit and Due Diligence Checklist v5.0, AI GRC Master Reference v7.11), and the superseded files are deleted there, so the two links in the README's related-instruments list would have broken.
+
+- **`README.md`**: the Checklist link moves from `AI_Audit_Due_Diligence_Checklist_v4_11.md` to `AI_Audit_Due_Diligence_Checklist_v5_0.md` and names its stable question IDs; the Master Reference link moves from `AI_GRC_Master_Reference_v7_10.md` to `AI_GRC_Master_Reference_v7_11.md` (account guard pin `grc-master-reference-version`).
+- Masthead, How to Cite and `CITATION.cff` to v2.3.1 in lockstep. All other files unchanged byte for byte.
+
 ## v2.3.0 (2026-10-18)
 
 Prompt pack made testable, session T5 of the whole-account review of 15 October 2026 (KST); review doc section 5 and reviewer report 07. Minor release: three prompts and two templates change their instrument text, each with a dated amendment note.
