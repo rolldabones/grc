@@ -1,6 +1,6 @@
 # Template: Risk and Opportunity Register
 
-One register for both sides of uncertainty, every row linked to an objective. Elements: A3, A4, A5. Prompts: `../03-prompts/A3-identification.md`, `../03-prompts/A4-assessment.md`. Build guide B is the operating manual for this template.
+One register for both sides of uncertainty, every row linked to an objective. Elements: A3, A4, A5. Prompts: `../03-prompts/A3-identification.md`, `../03-prompts/A4-assessment.md`. Build guide B is the operating manual for this template. The A4 prompt's output A fills the columns Id to Appetite position in this order (aligned 18 October 2026 (KST), grc v2.3.0); the treatment decision, owners and dates are human entries. Worked example: `../05-examples/sp0-worked-chain.md`.
 
 ## Register
 

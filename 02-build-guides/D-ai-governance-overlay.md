@@ -2,7 +2,7 @@
 
 ## 1. What this process is for
 
-AI systems change what "the process" means: part of the behavior being governed is produced by a model rather than written by a person, it can change with data and updates and it can act at machine speed. This guide applies the same 20 elements to that reality. It is an overlay, not a separate program: an organization that builds AI governance as a silo repeats the failure the GRC Capability Model™ exists to fix. Framework references in this guide are current as of 2026-07-04; verify against the applicable texts before reliance.
+AI systems change what "the process" means: part of the behavior being governed is produced by a model rather than written by a person, it can change with data and updates and it can act at machine speed. This guide applies the same 20 elements to that reality. It is an overlay, not a separate program: an organization that builds AI governance as a silo repeats the failure the GRC Capability Model™ exists to fix. Framework references in this guide were current as of 2026-07-04; re-read on 18 October 2026 (KST), the guide states no regime thresholds, so none of its content rests on a figure a later amendment could change. Verify against the applicable texts before reliance.
 
 ## 2. Elements invoked
 

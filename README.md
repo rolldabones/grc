@@ -1,6 +1,6 @@
 # grc
 
-**Version 2.2.4 · 2026-10-17 · [CHANGELOG](CHANGELOG.md)**
+**Version 2.3.0 · 2026-10-18 · [CHANGELOG](CHANGELOG.md)**
 
 This repository is a working method for governance, risk management and compliance (GRC). It is built on the GRC Capability Model™ (Red Book) version 3.5 published by OCEG® and it exists to do three things:
 
@@ -52,6 +52,8 @@ grc/
 |-- CHANGELOG.md                     Version history
 |-- CITATION.cff                     Machine-readable citation
 |-- FOUR-FRAMES.md                   Four-frames geopolitical sense-making entry
+|-- tests.md                         Prompt pack cases, known defects, run record
+|-- evidence/                        Logged run transcripts, one folder per run
 |-- 01-method/
 |   |-- principled-performance.md    PP, the ten Universal Outcomes, vocabulary
 |   |-- operating-cycle.md           Omega in operation: cadence, accountability, failure modes
@@ -66,12 +68,14 @@ grc/
 |   |-- usage.md                     Design rules, input hygiene, review gate
 |   |-- L1 ... R3 (20 files)         One capability prompt per element
 |   `-- M0-maturity-self-assessment.md
-`-- 04-templates/
-    |-- objectives-register.md       risk-register.md      obligations-register.md
-    `-- control-matrix.md            policy-template.md    review-assurance-plan.md
+|-- 04-templates/
+|   |-- objectives-register.md       risk-register.md      obligations-register.md
+|   `-- control-matrix.md            policy-template.md    review-assurance-plan.md
+`-- 05-examples/
+    `-- sp0-worked-chain.md          The SP0 chain worked prompt by prompt (fictional)
 ```
 
-How the pieces fit: `01-method/` explains the model, `02-build-guides/` shows it building something, `03-prompts/` accelerates the drafting work inside each build and `04-templates/` receives the outputs as operating artifacts. The cycle then runs on those artifacts. `FOUR-FRAMES.md` stands upstream of all four: a sense-making entry that reads the external environment through four mythological system-hypotheses with pre-registered discriminators, used alongside PESTLE and STEEPLE, whose weighted readings feed L1 External Context; its first scored exhibit is Carney's Davos Rupture (19 January 2026), and its public exposition is [*The Gods of the New Great Game*](https://redcaps.substack.com/p/the-gods-of-the-new-great-game).
+How the pieces fit: `01-method/` explains the model, `02-build-guides/` shows it building something, `03-prompts/` accelerates the drafting work inside each build and `04-templates/` receives the outputs as operating artifacts. The cycle then runs on those artifacts. `05-examples/` walks one chain from inputs to reviewed outputs, and `tests.md` uses it as the fixture for re-testing the prompts. `FOUR-FRAMES.md` stands upstream of all four: a sense-making entry that reads the external environment through four mythological system-hypotheses with pre-registered discriminators, used alongside PESTLE and STEEPLE, whose weighted readings feed L1 External Context; its first scored exhibit is Carney's Davos Rupture (19 January 2026), and its public exposition is [*The Gods of the New Great Game*](https://redcaps.substack.com/p/the-gods-of-the-new-great-game).
 
 ## Quick start: route by starting point
 
@@ -111,7 +115,7 @@ Original content in this repository is licensed under CC BY-SA 4.0 (`LICENSE.md`
 
 ## How to Cite
 
-> Paik, Son-U Michael. *grc*, v2.2.4. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc
+> Paik, Son-U Michael. *grc*, v2.3.0. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 

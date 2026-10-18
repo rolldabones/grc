@@ -1,8 +1,9 @@
 # Four Frames for the New Great Game
 
-**GRCnext™ method entry · v0.5.1 · [✓ final]**
+**GRCnext™ method entry · v0.5.2 · [✓ final]**
 Author: Son-U Michael Paik · CEO, GRC Solutions Korea (personal frames) · Date: 2026-08-23 (Asia/Seoul, UTC+9) · Supersedes: v0.4 and earlier (all 2026-08-23)
 Amendment note, 17 October 2026 (KST): v0.5.1 corrects house style only (the byline to the account form, the GRCnext™ mark in Section 4 and one serial comma in Section 9); no frame, indicator or reading changed. Session T3 of the whole-account review of 15 October 2026 (reviewer report 07, item C6).
+Amendment note, 18 October 2026 (KST): v0.5.2 strikes one completed outstanding item (the ECOSYSTEM.md entries, made on 23 August 2026 at ECOSYSTEM.md v1.7.9); no frame, indicator or reading changed. Session T5 of the same review (reviewer report 07, item A8).
 Ecosystem placement: grc repository (Layer 1: Doctrine and method) · [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) · Public exposition: [*The Gods of the New Great Game*](https://redcaps.substack.com/p/the-gods-of-the-new-great-game) (23 August 2026)
 
 ---
@@ -266,7 +267,7 @@ Coverage without dynamics is inventory. Dynamics without coverage is anecdote. T
 
 **[Decisions Made]** Adopted four-frame portfolio (Greek, Norse, Kali Yuga, Mandate of Heaven); retained US-as-Loki as a role-migration hypothesis held inside one frame only; registered Carney's Davos Rupture as the model's first scored exhibit; pre-registered discriminators dated 2026-08-23; placed the method in the ecosystem beside the scanning taxonomies; commissioned the public exposition *The Gods of the New Great Game*; added the operating procedure (scoring log, observable series), the frame admission and retirement rules and the author's note on limits. Antagonistic pass, 2026-08-23: added the cross-frame survivor examples, the structured-judgment disclaimer on scoring, the Sinology hedge, the redundancy entry in the bias register and the Bhagavata bull citation; status moved to pending review. Deepening pass, 2026-08-23: all four frame registries expanded, the Questions/If-right/What-it-sees blocks standardized across frames and the cast table added to Section 7. Clarity pass, 2026-08-23: dated position statement added to Section 0. Placement decision, 2026-08-23: filed in the existing grc repository (Layer 1: Doctrine and method) rather than a new Layer 4 repository; masthead, Section 9 and version block updated accordingly.
 
-**[Outstanding Items]** Validate the four-feet breaking-order hypothesis against the named series; set initial portfolio weights at first quarterly scoring; link specific data series to the scoring-log indicators; log the next three watcher-class declarations to test that indicator class beyond a single datum; run the Fenrir-vantage and claimant-side Mandate inversions in full; date-stamp Baldr candidates and US Loki-arc placement; add the ECOSYSTEM.md entries (Published expositions entry and the grc description-line extension).
+**[Outstanding Items]** Validate the four-feet breaking-order hypothesis against the named series; set initial portfolio weights at first quarterly scoring; link specific data series to the scoring-log indicators; log the next three watcher-class declarations to test that indicator class beyond a single datum; run the Fenrir-vantage and claimant-side Mandate inversions in full; date-stamp Baldr candidates and US Loki-arc placement; ~~add the ECOSYSTEM.md entries (Published expositions entry and the grc description-line extension)~~ (done 23 August 2026, ECOSYSTEM.md v1.7.9; struck 18 October 2026).
 
 **Diff from v0.4**
 

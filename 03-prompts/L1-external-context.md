@@ -4,6 +4,7 @@
 **Use when:** starting or refreshing the external scan, or when a trigger fires (new law, enforcement action, market or technology shift).
 **Prepare:** the numbered inputs below. **Output feeds:** A3, the obligations register (`../04-templates/obligations-register.md`) and the watchlist.
 **Method reference:** `../01-method/elements.md` (L1) · Build guides C and D use this prompt heavily.
+**Amended:** 18 October 2026 (KST), grc v2.3.0. REQUIRED INPUTS adds item 5, optional: the weighted portfolio reading from the scoring log of `../FOUR-FRAMES.md`, which the README says feeds L1 and which the prompt had no input for.
 
 ## Prompt
 
@@ -25,6 +26,7 @@ REQUIRED INPUTS
    technological, economic, social, geopolitical) and what time horizon.
 3. Current objectives or strategic priorities (summary form is acceptable).
 4. Existing watchlist or prior context brief, if any.
+5. Weighted portfolio reading from the FOUR-FRAMES scoring log, if used.
 If any numbered input is missing, stop and list the missing items. Do not fabricate.
 
 TASK

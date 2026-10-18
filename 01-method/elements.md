@@ -12,7 +12,7 @@ Each element links to its capability prompt in `../03-prompts/` and, where appli
 
 **Purpose.** Understand the world the organization operates in: legal and regulatory, market and competitive, technological, economic, social and geopolitical forces, so that objectives, assessments and designs rest on current reality.
 
-**Inputs:** organization profile, jurisdictions and markets, prior context briefs, authority source watchlist.
+**Inputs:** organization profile, jurisdictions and markets, prior context briefs, authority source watchlist and, if used, the weighted portfolio reading from the `../FOUR-FRAMES.md` scoring log.
 
 **Activities:**
 1. Scan defined external domains on a set cadence and on trigger.

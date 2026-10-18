@@ -50,11 +50,11 @@ Prompts compose in the order Ω runs. Typical chains by starting point (see `../
 5. **SP4 (crisis):** P6 → P7 → P8 → A3/A4 → A5 → R1.
 6. **Whole-capability snapshot:** M0 across all elements, feeding R3.
 
-Chain by feeding one prompt's reviewed output into the next prompt's inputs. Feed reviewed outputs, not raw ones; the gate sits between every link.
+Chain by feeding one prompt's reviewed output into the next prompt's inputs. Feed reviewed outputs, not raw ones; the gate sits between every link. `../05-examples/sp0-worked-chain.md` walks the SP0 chain once, with a fictional organization, from inputs to reviewed outputs.
 
 ## 7. Prompts are controlled documents
 
-Treat this pack the way P2 treats policies: each prompt has an owner, a version and a change history once you adapt it. Record local modifications; a prompt that drifted silently produces outputs nobody can interpret later. Re-test after model changes: the same prompt on a new model is a new combination.
+Treat this pack the way P2 treats policies: each prompt has an owner, a version and a change history once you adapt it. Record local modifications; a prompt that drifted silently produces outputs nobody can interpret later. Re-test after model changes: the same prompt on a new model is a new combination. The pack's fixture is the worked SP0 chain; its cases, known defects and run record are in `../tests.md`.
 
 ## 8. Terminology and localization
 

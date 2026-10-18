@@ -1,6 +1,6 @@
 # Template: Objectives Register
 
-The spine of the capability. Every risk, opportunity, obligation and control ultimately traces to a row here. Element: A2. Prompt: `../03-prompts/A2-objectives.md`.
+The spine of the capability. Every risk, opportunity, obligation and control ultimately traces to a row here. Element: A2. Prompt: `../03-prompts/A2-objectives.md`, whose output A uses these 13 columns in this order (aligned 18 October 2026 (KST), grc v2.3.0). Worked example: `../05-examples/sp0-worked-chain.md`.
 
 ## Register
 
@@ -16,7 +16,7 @@ The spine of the capability. Every risk, opportunity, obligation and control ult
 4. **Parent OBJ.** The enterprise objective this cascades from; blank only at the top level.
 5. **Measure, target, tolerance.** The metric, the intended value and the acceptable variation before escalation. Tolerance feeds R1 thresholds directly.
 6. **Linked RSK/OPP and OBL.** Populated from A3 onward; an objective with no linked uncertainty after an identification pass is a flag, not a comfort.
-7. **Status.** Active, At risk (tolerance breached), Achieved, Retired.
+7. **Status.** Proposed (drafted by A2, owner not yet confirmed), Active, At risk (tolerance breached), Achieved, Retired. A2 drafts every row as Proposed with the owner marked (candidate); the row becomes Active when the named owner confirms it.
 
 ## Guidance
 

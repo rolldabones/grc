@@ -1,0 +1,26 @@
+{
+ "suite": "grc-sp0",
+ "repo": "grc",
+ "head": "cb22408",
+ "system_files": {
+  "../Claude outputs/T5-runs/suites/blocks/grc-A2-objectives.txt": "c09cb31e3fc47283855f2014f4ba85071b9f1a80d176e13c3bc2d86bce5e7cd7",
+  "../Claude outputs/T5-runs/suites/blocks/grc-A4-assessment.txt": "1975e3c289899ba1c26451bcb088d10f7e9231f3bacb840ad4d3b849826568fe",
+  "03-prompts/usage.md": "387e7cf74180d4c8e32004d7e7b539e258aaf32112dd0d464cdfc0e7e3e3c471"
+ },
+ "tested_model": "claude-opus-5-5",
+ "scorer_model": "claude-sonnet-5-5",
+ "max_tokens": 16000,
+ "finished": "2026-10-18T10:28+09:00",
+ "results": [
+  {
+   "case": "G1",
+   "verdict": "PASS",
+   "truncated": false
+  },
+  {
+   "case": "G2",
+   "verdict": "PASS",
+   "truncated": false
+  }
+ ]
+}
