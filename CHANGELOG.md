@@ -1,5 +1,12 @@
 # Changelog
 
+## v2.3.2 (2026-10-19)
+
+Patch, from the weekly maintenance sweep of 19 October 2026 (KST) and Michael Paik's review of the T5 runs, completed 19 October 2026 (KST), on which he concurs with the scoring as recorded. No prompt, template or schema changes.
+
+- **Logged run T5 accepted.** The run passed 2 of 2 (G1, G2); the named reviewer concurs and accepts the configuration. `tests.md` records the review and the acceptance.
+- README masthead, How to Cite and `CITATION.cff` to v2.3.2.
+
 ## v2.3.1 (2026-10-18)
 
 Link repair, session T8 of the whole-account review of 15 October 2026 (KST). Patch: the book repository reissued its two appendix instruments under new versioned filenames on the same day (AI Audit and Due Diligence Checklist v5.0, AI GRC Master Reference v7.11), and the superseded files are deleted there, so the two links in the README's related-instruments list would have broken.

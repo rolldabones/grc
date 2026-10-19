@@ -38,7 +38,7 @@ Counts: scorer 2 PASS, 0 FAIL. Session review: 2 concur; 0 dissent; 0 instrument
 
 Notes on content, not scored. G1 also drafted a row for the existing enterprise objective OBJ-E02, with its measure, target and tolerance flagged as not stated, and proposed a monthly review cadence where the worked chain has quarterly. G2 scored four cells differently from the worked chain (RSK-014 Inherent I 5 and Residual L 3; OPP-003 Inherent L 4 and Velocity High) and marked each CALIBRATE with its reasoning, which is the prompt's rule for a judgment score; rating and appetite position agree with the worked chain.
 
-Acceptance under this file's rule ("A run passes when every case it exercises passes"): the run passes, 2 of 2. Reviewer: pending (Michael Paik). Accepted: no, pending review.
+Acceptance under this file's rule ("A run passes when every case it exercises passes"): the run passes, 2 of 2. Reviewer: Michael Paik, 19 October 2026 (KST), concurs. Accepted: yes, 19 October 2026 (KST).
 
 History: no earlier run of any prompt in this pack is published. Whether the prompts were tested against a fixture before 18 October 2026 is Unknown.
 
