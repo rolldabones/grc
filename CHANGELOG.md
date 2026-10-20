@@ -1,5 +1,10 @@
 # Changelog
 
+## v2.3.3 (2026-10-20)
+
+- LICENSE: two defects against the Creative Commons legal code corrected (the space in 'ShareAlike. In'; the CC0 sentence of the closing notice). Operative terms unchanged.
+- README masthead, How to Cite and `CITATION.cff` to v2.3.3.
+
 ## v2.3.2 (2026-10-19)
 
 Patch, from the weekly maintenance sweep of 19 October 2026 (KST) and Michael Paik's review of the T5 runs, completed 19 October 2026 (KST), on which he concurs with the scoring as recorded. No prompt, template or schema changes.
