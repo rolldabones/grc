@@ -2,7 +2,7 @@
 
 **Fictional and illustrative.** Ganada Trading Co. is an invented company; every name, figure, date, scale and document below is invented for this example. Nothing here describes a real organization or a real run. The outputs are written by hand to show what each prompt's schema asks for after human review; they are not model output and not a logged test run. The run record is in [`../tests.md`](../tests.md).
 
-**grc v2.3.0 · 18 October 2026 (KST)**
+**grc v2.3.4 · 20 October 2026 (KST)**
 
 ## What this example is for
 

@@ -8,6 +8,8 @@ One row per assignable requirement, never per instrument. Elements: L1, A3. Prom
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | OBL-021 | Data protection statute | Statute | Art. 00(0) (verify) | KR | All KR entities | Notify the authority of qualifying breaches within the statutory window | Applies | Processes personal data of KR residents as controller | H. Choi | POL-007 | CTL-052, CTL-053 | Incident response test records, notification runbook | Amendment or new enforcement guidance | 2026-05-10 | Mapped |
 
+The sample row is fictional and illustrative, like the worked example it comes from: "Art. 00(0) (verify)" is a placeholder, not a citation. A live row carries the exact provision, verified against the source (field definition 2).
+
 ## Field definitions
 
 1. **Type.** Statute, regulation, official guidance, contract, standard, voluntary commitment. This is the authority hierarchy; conflicts resolve upward, with counsel.

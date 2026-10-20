@@ -1,5 +1,17 @@
 # Changelog
 
+## v2.3.4 (2026-10-20)
+
+Patch. Independent review of 20 October 2026; changes made with Claude, approved by Michael Paik. No prompt block, fixture block or evidence file changes.
+
+- **Corrections of fact.** The Carney Davos speech was delivered on Tuesday 20 January 2026, not Monday 19 January: `FOUR-FRAMES.md` (the datum and the scoring-log date) and the README now say so, and the official transcript on pm.gc.ca is cited as the primary source, with CBS News kept as the copy whose spelling the quotations follow (GRC-01). Erratum: the v2.2.0 entry below gives "19 January 2026"; the correct date is 20 January 2026. `tests.md` counts five G2 cells that differ from the worked chain, not four (GRC-04).
+- **Method disclosure.** `FOUR-FRAMES.md` v0.5.3 discloses that the Carney exhibit predates the 2026-08-23 pre-registration and excludes it from scoring; the README describes it as the first exhibit, excluded from scoring (GRC-03). A dated note beside the version block's "status moved to pending review" records that no later move to final is recorded; the author's "[✓ final]" mark stands (GRC-10).
+- **Known defects (`tests.md`).** K4 records that the fixture's rating rule rates Residual L 5 with Residual I 3 as Low; the fixture is left as tested (GRC-05). K1 adds R3's output A, which lacks Due and Status and names "Owner candidate" against the improvement backlog; the prompt is left as published (GRC-12). The run configuration now says the user turn opens with "Here are the required inputs." before the verbatim fixture (GRC-07).
+- **Consistency.** `03-prompts/usage.md` section 1 names the tested configuration, the whole fenced prompt as the system prompt (GRC-08). The OPP-003 sample row's review cadence is Semiannual, per field definition 7 (GRC-06). `elements.md` R3 feeds L1, matching L1's inputs (GRC-11). The obligations register labels its sample row fictional and illustrative, with a placeholder citation (GRC-16). The README notes that only A2 and A4 of the 21 prompts have test cases (GRC-17) and describes GRCnext-Copilot in its ECOSYSTEM.md role wording (X-05). The `FOUR-FRAMES.md` closing line is bold (GRC-14).
+- **LICENSE.** Section 6 re-lettered to match the Creative Commons legal code: the closing paragraph of 6(b) is unlettered and the last two items are 6(c) and 6(d) (GRC-18). Operative text unchanged.
+- **Link repair.** The book repository reissued its two appendix instruments as AI Audit and Due Diligence Checklist v5.1 and AI GRC Master Reference v7.12 and removed the v5.0 and v7.11 files; the README's book-appendix links and labels now name `AI_Audit_Due_Diligence_Checklist_v5_1.md` and `AI_GRC_Master_Reference_v7_12.md` (the Checklist still holds 198 questions).
+- Mastheads of `tests.md` and `05-examples/sp0-worked-chain.md`, README masthead, How to Cite and `CITATION.cff` to v2.3.4 (GRC-09).
+
 ## v2.3.3 (2026-10-20)
 
 - LICENSE: two defects against the Creative Commons legal code corrected (the space in 'ShareAlike. In'; the CC0 sentence of the closing notice). Operative terms unchanged.

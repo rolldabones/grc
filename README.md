@@ -1,6 +1,6 @@
 # grc
 
-**Version 2.3.3 · 2026-10-20 · [CHANGELOG](CHANGELOG.md)**
+**Version 2.3.4 · 2026-10-20 · [CHANGELOG](CHANGELOG.md)**
 
 This repository is a working method for governance, risk management and compliance (GRC). It is built on the GRC Capability Model™ (Red Book) version 3.5 published by OCEG® and it exists to do three things:
 
@@ -75,7 +75,7 @@ grc/
     `-- sp0-worked-chain.md          The SP0 chain worked prompt by prompt (fictional)
 ```
 
-How the pieces fit: `01-method/` explains the model, `02-build-guides/` shows it building something, `03-prompts/` accelerates the drafting work inside each build and `04-templates/` receives the outputs as operating artifacts. The cycle then runs on those artifacts. `05-examples/` walks one chain from inputs to reviewed outputs, and `tests.md` uses it as the fixture for re-testing the prompts. Only A2 and A4 of the 21 prompts have test cases; the other 19 are untested. `FOUR-FRAMES.md` stands upstream of all four: a sense-making entry that reads the external environment through four mythological system-hypotheses with pre-registered discriminators, used alongside PESTLE and STEEPLE, whose weighted readings feed L1 External Context; its first scored exhibit is Carney's Davos Rupture (20 January 2026), and its public exposition is [*The Gods of the New Great Game*](https://redcaps.substack.com/p/the-gods-of-the-new-great-game).
+How the pieces fit: `01-method/` explains the model, `02-build-guides/` shows it building something, `03-prompts/` accelerates the drafting work inside each build and `04-templates/` receives the outputs as operating artifacts. The cycle then runs on those artifacts. `05-examples/` walks one chain from inputs to reviewed outputs, and `tests.md` uses it as the fixture for re-testing the prompts. Only A2 and A4 of the 21 prompts have test cases; the other 19 are untested. `FOUR-FRAMES.md` stands upstream of all four: a sense-making entry that reads the external environment through four mythological system-hypotheses with pre-registered discriminators, used alongside PESTLE and STEEPLE, whose weighted readings feed L1 External Context; its first exhibit is Carney's Davos Rupture (20 January 2026), which predates the pre-registration and is excluded from scoring, and its public exposition is [*The Gods of the New Great Game*](https://redcaps.substack.com/p/the-gods-of-the-new-great-game).
 
 ## Quick start: route by starting point
 
@@ -100,14 +100,14 @@ This method repository is one component of a larger body of AI governance, risk 
 
 Nearest neighbors:
 - [grc-workbook](https://github.com/rolldabones/grc-workbook): the module-by-module workbook built on this method, with a scored Governance Test and artifact index
-- [GRCnext-Copilot](https://github.com/rolldabones/GRCnext-Copilot): a build framework for GRC copilots on five primitives (Services, Tolerances, Pipes, Switches, Exits)
+- [GRCnext-Copilot](https://github.com/rolldabones/GRCnext-Copilot): the optionality assessor: evidence-led scoring of Global Optionality across critical services (Pipes, Switches, Exits)
 - [slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen): the 12-step methodology for deliberate, governed AI adoption
 - [definition-of-done](https://github.com/rolldabones/definition-of-done): the acceptance doctrine, how done is defined before work begins and confirmed before reliance
 - [AI-Impact-Assessment-Tool](https://github.com/rolldabones/AI-Impact-Assessment-Tool): pre-deployment and lifecycle impact assessment aligned to the EU AI Act, NIST AI RMF, ISO/IEC 42001 and ISO/IEC 42005
 
 Book-appendix instruments:
-- [AI Audit DD Checklist](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/main/AI_Audit_Due_Diligence_Checklist_v5_0.md): 198-question due diligence instrument with stable question IDs (App I)
-- [AI GRC Master Reference](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/main/AI_GRC_Master_Reference_v7_11.md): consolidated regulatory and framework reference (App J)
+- [AI Audit DD Checklist v5.1](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/main/AI_Audit_Due_Diligence_Checklist_v5_1.md): 198-question due diligence instrument with stable question IDs (App I)
+- [AI GRC Master Reference v7.12](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/main/AI_GRC_Master_Reference_v7_12.md): consolidated regulatory and framework reference (App J)
 
 ## License and attribution
 
@@ -115,7 +115,7 @@ Original content in this repository is licensed under CC BY-SA 4.0 (`LICENSE.md`
 
 ## How to Cite
 
-> Paik, Son-U Michael. *grc*, v2.3.3. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc
+> Paik, Son-U Michael. *grc*, v2.3.4. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 

@@ -1,6 +1,6 @@
 # grc prompt pack: tests
 
-**Cases, known defects and the run record for the 21 prompts in [`03-prompts/`](03-prompts/) · v2.3.0 · 18 October 2026 (KST)**
+**Cases, known defects and the run record for the 21 prompts in [`03-prompts/`](03-prompts/) · v2.3.4 · 20 October 2026 (KST)**
 
 `03-prompts/usage.md` section 7 says to re-test after model changes. This file is what that re-test runs against. The fixture is the worked SP0 chain, [`05-examples/sp0-worked-chain.md`](05-examples/sp0-worked-chain.md): its blocks marked "fixture" are pasted verbatim as each case's input, after the opening line "Here are the required inputs." A run passes when every case it exercises passes; a case not exercised in a run is recorded as not run, never as passed.
 
@@ -19,11 +19,12 @@ Content, for the reader, not the pass condition: the worked chain's reviewed row
 
 ## Known defects
 
-Recorded 18 October 2026 (KST). None is fixed at v2.3.0.
+K1 to K3 recorded 18 October 2026 (KST); K4 and the R3 part of K1 recorded 20 October 2026 (KST), from the independent review of that date. None is fixed at v2.3.4; each is disclosed and open.
 
-- **K1: three more chain outputs do not map one to one onto their templates.** A5's treatment design table has no Linked OBL, Linked POL, Last test result or Status column against the control matrix and names "Operator candidate" for Operator; R1's indicator table names "Owner candidate" for Owner and has no Status column against the review and assurance plan's indicator set; A3's identified items carry no Category, which A4 then needs. The worked chain maps them by hand. A case for each would fail today.
+- **K1: three more chain outputs do not map one to one onto their templates.** A5's treatment design table has no Linked OBL, Linked POL, Last test result or Status column against the control matrix and names "Operator candidate" for Operator; R1's indicator table names "Owner candidate" for Owner and has no Status column against the review and assurance plan's indicator set; A3's identified items carry no Category, which A4 then needs. The worked chain maps them by hand. A case for each would fail today. Outside the chain, R3's output A (consolidated backlog) has the same defect against the review and assurance plan's improvement backlog: it names "Owner candidate" for Owner and has no Due or Status column (disclosed 20 October 2026; the prompt is left as published).
 - **K2: the stop rule and the optional inputs.** Every prompt says "If any numbered input is missing, stop and list the missing items", and several numbered inputs read "if any" or "if used" (A2 input 4, A4 input 2 velocity, L1 inputs 4 and 5). Whether an absent optional input stops the prompt is not stated. The fixtures state every input, so the cases do not exercise this.
 - **K3: the template sample rows cohere by identifier, not wholly by reason.** CTL-052 (breach severity rubric) is linked to RSK-014 (supplier insolvency); OBL-021 lists CTL-053, which the control matrix does not hold; OPP-003's Appetite position reads "Pursuit within appetite" where the risk register's field definition 5 allows Above, At or Within. The worked chain shows P1's gap check finding the first two. The sample rows are left as published pending the owner's decision.
+- **K4: the fixture's rating rule is not monotonic.** The worked chain's rule ("High where Residual I is 4 or 5 and Residual L is 2 or more; otherwise Medium where Residual L times Residual I is 6 to 12; otherwise Low.") rates Residual L 5 with Residual I 3 (product 15) as Low, while L 4 with I 3 (product 12) rates Medium. Found by the tested model in run T5 (G2.md, section E, item 2) and confirmed over all 25 L by I cells by the independent review of 20 October 2026. The fixture is left as tested; a reader adopting the rule should close the gap above 12 (for example, High where the product is 15 or more).
 
 ## Last run
 

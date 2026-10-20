@@ -1,9 +1,10 @@
 # Four Frames for the New Great Game
 
-**GRCnext™ method entry · v0.5.2 · [✓ final]**
+**GRCnext™ method entry · v0.5.3 · [✓ final]**
 Author: Son-U Michael Paik · CEO, GRC Solutions Korea (personal frames) · Date: 2026-08-23 (Asia/Seoul, UTC+9) · Supersedes: v0.4 and earlier (all 2026-08-23)
 Amendment note, 17 October 2026 (KST): v0.5.1 corrects house style only (the byline to the account form, the GRCnext™ mark in Section 4 and one serial comma in Section 9); no frame, indicator or reading changed. Session T3 of the whole-account review of 15 October 2026 (reviewer report 07, item C6).
 Amendment note, 18 October 2026 (KST): v0.5.2 strikes one completed outstanding item (the ECOSYSTEM.md entries, made on 23 August 2026 at ECOSYSTEM.md v1.7.9); no frame, indicator or reading changed. Session T5 of the same review (reviewer report 07, item A8).
+Amendment note, 20 October 2026 (KST): v0.5.3 corrects the Carney speech date to Tuesday 20 January 2026 and cites the official transcript as primary; discloses that the Carney exhibit predates the 2026-08-23 pre-registration and excludes it from scoring; bolds the closing line. No frame, indicator or reading changed. Independent review of 20 October 2026.
 Ecosystem placement: grc repository (Layer 1: Doctrine and method) · [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) · Public exposition: [*The Gods of the New Great Game*](https://redcaps.substack.com/p/the-gods-of-the-new-great-game) (23 August 2026)
 
 ---
@@ -20,7 +21,7 @@ Operating rule: a claim that survives every frame in the portfolio is worth acti
 
 The surviving set is not empty. As of this writing, three claims hold in all four frames: middle-power hedging becomes the default posture, chokepoint leverage rises in value and trust becomes the scarce asset. Cross-frame survivors of this kind are what the method promotes to register-grade.
 
-**Position as of 2026-08-23, stated so it cannot be mistaken.** On one scored exhibit, the evidence leans away from restoration (Greek down) and toward rupture with interregnum (Norse and Mandate-interregnum up), with the Kali reading standing as the check on both. That lean is a reading under revision, not a verdict. The three survivors above are the only claims this entry promotes to action.
+**Position as of 2026-08-23, stated so it cannot be mistaken.** On one exhibit (excluded from scoring since 20 October 2026; see Section 7), the evidence leans away from restoration (Greek down) and toward rupture with interregnum (Norse and Mandate-interregnum up), with the Kali reading standing as the check on both. That lean is a reading under revision, not a verdict. The three survivors above are the only claims this entry promotes to action.
 
 ## 1. Method
 
@@ -211,7 +212,7 @@ Structure of the speech: Havel's greengrocer and "living within a lie"; the rule
 3. Decay symmetric across all major actors including challengers: weight to Kali Yuga.
 4. Incumbent decay plus claimant performance plus third-party realignment: weight to Mandate (transfer). Incumbent decay plus claimant stall plus generalized hedging: weight to Mandate (interregnum).
 5. Loki vs Cronus (within Norse): generalized entropy vs targeted destruction of successor-empowering institutions.
-6. Current load of the Carney datum: Norse and Mandate-interregnum up; Greek down; Kali partial.
+6. Current load of the Carney datum: Norse and Mandate-interregnum up; Greek down; Kali partial. (Disclosed 20 October 2026: the datum is dated 20 January 2026, before this pre-registration, so it is a retrofit under the Section 1 rule and is not scored.)
 
 **Candidate observable series (indicator to instrument).** Named so that scoring stays tied to data rather than mood. Illustrative, not exhaustive; link specific series before first scoring.
 
@@ -225,6 +226,8 @@ Structure of the speech: Havel's greengrocer and "living within a lie"; the rule
 | Date | Signal (dated, sourced) | Greek | Norse | Kali | Mandate | Rationale | GRC action | Owner |
 |---|---|---|---|---|---|---|---|---|
 | 2026-01-20 | Carney, WEF Davos (CBS transcript) | −− | ++ | + | + (interregnum) | Watcher-class figure explicitly denies restoration; confers mandate on no claimant | Re-weight rupture scenario in macro register; open dependency map on order-contingent infrastructure | M |
+
+**Disclosure (20 October 2026).** The Carney entry above is dated 20 January 2026, seven months before the discriminators were pre-registered on 2026-08-23. Under the Section 1 rule ("Retrofitting myth to events after the fact is prohibited") it is a retrofit, not a pre-registered test. It is kept as an illustration of the log format and is excluded from scoring: its loadings count toward no portfolio weight. The first scored entry will be a signal dated after 2026-08-23.
 
 Initial portfolio weights: [to be set at first quarterly scoring and recorded here].
 
@@ -265,7 +268,7 @@ Coverage without dynamics is inventory. Dynamics without coverage is anecdote. T
 
 **[Purpose]** Personal sense-making scaffold for the new Great Game; GRCnext™ method entry (grc repository, Layer 1: Doctrine and method) establishing a multi-frame, pre-registered-indicator discipline for geopolitical risk framing, used alongside PESTLE and STEEPLE.
 
-**[Decisions Made]** Adopted four-frame portfolio (Greek, Norse, Kali Yuga, Mandate of Heaven); retained US-as-Loki as a role-migration hypothesis held inside one frame only; registered Carney's Davos Rupture as the model's first scored exhibit; pre-registered discriminators dated 2026-08-23; placed the method in the ecosystem beside the scanning taxonomies; commissioned the public exposition *The Gods of the New Great Game*; added the operating procedure (scoring log, observable series), the frame admission and retirement rules and the author's note on limits. Antagonistic pass, 2026-08-23: added the cross-frame survivor examples, the structured-judgment disclaimer on scoring, the Sinology hedge, the redundancy entry in the bias register and the Bhagavata bull citation; status moved to pending review. Deepening pass, 2026-08-23: all four frame registries expanded, the Questions/If-right/What-it-sees blocks standardized across frames and the cast table added to Section 7. Clarity pass, 2026-08-23: dated position statement added to Section 0. Placement decision, 2026-08-23: filed in the existing grc repository (Layer 1: Doctrine and method) rather than a new Layer 4 repository; masthead, Section 9 and version block updated accordingly.
+**[Decisions Made]** Adopted four-frame portfolio (Greek, Norse, Kali Yuga, Mandate of Heaven); retained US-as-Loki as a role-migration hypothesis held inside one frame only; registered Carney's Davos Rupture as the model's first scored exhibit (excluded from scoring on 20 October 2026 as predating the pre-registration); pre-registered discriminators dated 2026-08-23; placed the method in the ecosystem beside the scanning taxonomies; commissioned the public exposition *The Gods of the New Great Game*; added the operating procedure (scoring log, observable series), the frame admission and retirement rules and the author's note on limits. Antagonistic pass, 2026-08-23: added the cross-frame survivor examples, the structured-judgment disclaimer on scoring, the Sinology hedge, the redundancy entry in the bias register and the Bhagavata bull citation; status moved to pending review. (Independent review, 20 October 2026: the version block records "status moved to pending review" and no later move to final; the masthead reads "[✓ final]". The author's mark is left as recorded.) Deepening pass, 2026-08-23: all four frame registries expanded, the Questions/If-right/What-it-sees blocks standardized across frames and the cast table added to Section 7. Clarity pass, 2026-08-23: dated position statement added to Section 0. Placement decision, 2026-08-23: filed in the existing grc repository (Layer 1: Doctrine and method) rather than a new Layer 4 repository; masthead, Section 9 and version block updated accordingly.
 
 **[Outstanding Items]** Validate the four-feet breaking-order hypothesis against the named series; set initial portfolio weights at first quarterly scoring; link specific data series to the scoring-log indicators; log the next three watcher-class declarations to test that indicator class beyond a single datum; run the Fenrir-vantage and claimant-side Mandate inversions in full; date-stamp Baldr candidates and US Loki-arc placement; ~~add the ECOSYSTEM.md entries (Published expositions entry and the grc description-line extension)~~ (done 23 August 2026, ECOSYSTEM.md v1.7.9; struck 18 October 2026).
 
