@@ -341,7 +341,7 @@ Each element links to its capability prompt in `../03-prompts/` and, where appli
 
 **Outputs:** improvement backlog, change records, closure evidence.
 **Measures:** backlog throughput, aging, recurrence of closed items.
-**Feeds / fed by:** feeds A5 and all P-elements; fed by everything. R3 is where the cycle either loops or leaks.
+**Feeds / fed by:** feeds L1, A5 and all P-elements; fed by everything. R3 is where the cycle either loops or leaks.
 **Prompt:** `../03-prompts/R3-improvement.md`
 
 ---

@@ -4,7 +4,7 @@ This directory contains 21 capability prompts: one per element (L1 to R3) plus M
 
 ## 1. Model-agnostic by design
 
-Prompts are plain text. They use no vendor-specific features, tools or formatting tricks, so they run on any capable large language model, hosted or local. If your model supports system prompts, place the ROLE block there; otherwise paste the prompt whole. Expect quality to vary by model; the quality checks inside each prompt are your first filter, not your last.
+Prompts are plain text. They use no vendor-specific features, tools or formatting tricks, so they run on any capable large language model, hosted or local. If your model supports system prompts, place the ROLE block there; otherwise paste the prompt whole. The configuration tested in [`../tests.md`](../tests.md) is a third one: the whole fenced prompt block as the system prompt, with the inputs as the user turn. Expect quality to vary by model; the quality checks inside each prompt are your first filter, not your last.
 
 ## 2. Anatomy
 

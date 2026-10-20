@@ -158,7 +158,7 @@ The surviving set is not empty. As of this writing, three claims hold in all fou
 
 ## 6. Exhibit: Carney's Rupture, read four ways
 
-**The datum.** Mark Carney, Prime Minister of Canada, World Economic Forum, Davos, Monday 19 January 2026 (full transcript published by CBS News, 21 January 2026). Verified key language:
+**The datum.** Mark Carney, Prime Minister of Canada, World Economic Forum, Davos, Tuesday 20 January 2026 (official transcript published by the Prime Minister of Canada; full transcript also published by CBS News, 21 January 2026). Verified key language:
 
 > "Today, I will talk about a rupture in the world order, the end of a pleasant fiction and the beginning of a harsh reality..."
 
@@ -224,7 +224,7 @@ Structure of the speech: Havel's greengrocer and "living within a lie"; the rule
 
 | Date | Signal (dated, sourced) | Greek | Norse | Kali | Mandate | Rationale | GRC action | Owner |
 |---|---|---|---|---|---|---|---|---|
-| 2026-01-19 | Carney, WEF Davos (CBS transcript) | −− | ++ | + | + (interregnum) | Watcher-class figure explicitly denies restoration; confers mandate on no claimant | Re-weight rupture scenario in macro register; open dependency map on order-contingent infrastructure | M |
+| 2026-01-20 | Carney, WEF Davos (CBS transcript) | −− | ++ | + | + (interregnum) | Watcher-class figure explicitly denies restoration; confers mandate on no claimant | Re-weight rupture scenario in macro register; open dependency map on order-contingent infrastructure | M |
 
 Initial portfolio weights: [to be set at first quarterly scoring and recorded here].
 
@@ -277,7 +277,8 @@ Coverage without dynamics is inventory. Dynamics without coverage is anecdote. T
 
 **Sources**
 
-- CBS News, full transcript of Carney's WEF Davos speech, 21 January 2026 (primary source for all quotations): https://www.cbsnews.com/news/canada-mark-carney-speech-davos-trump-rupturing-world-order/
+- Prime Minister of Canada, "Principled and pragmatic: Canada's path", official transcript of the WEF Davos speech, dateline 20 January 2026 (primary source for the date and text): https://www.pm.gc.ca/en/news/speeches/2026/01/20/principled-and-pragmatic-canadas-path-prime-minister-carney-addresses
+- CBS News, full transcript of Carney's WEF Davos speech, 21 January 2026 (secondary copy; the quotations follow its spelling): https://www.cbsnews.com/news/canada-mark-carney-speech-davos-trump-rupturing-world-order/
 - Truthout, report of the Davos speech and its reception (standing ovation): https://truthout.org/articles/mark-carney-warns-american-hegemony-is-destroying-world-order-in-candid-speech/
 - Lowy Institute, "Carney's rupture: Rethinking the rules-based order": https://www.lowyinstitute.org/publications/carney-s-rupture-rethinking-rules-based-order-0
 - rolldabones ecosystem map: https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md
@@ -285,4 +286,4 @@ Coverage without dynamics is inventory. Dynamics without coverage is anecdote. T
 
 ---
 
-*Final Liability rests with the Human.*
+**Final Liability rests with the Human.**

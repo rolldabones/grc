@@ -2,9 +2,9 @@
 
 **Cases, known defects and the run record for the 21 prompts in [`03-prompts/`](03-prompts/) · v2.3.0 · 18 October 2026 (KST)**
 
-`03-prompts/usage.md` section 7 says to re-test after model changes. This file is what that re-test runs against. The fixture is the worked SP0 chain, [`05-examples/sp0-worked-chain.md`](05-examples/sp0-worked-chain.md): its blocks marked "fixture" are pasted verbatim as each case's input. A run passes when every case it exercises passes; a case not exercised in a run is recorded as not run, never as passed.
+`03-prompts/usage.md` section 7 says to re-test after model changes. This file is what that re-test runs against. The fixture is the worked SP0 chain, [`05-examples/sp0-worked-chain.md`](05-examples/sp0-worked-chain.md): its blocks marked "fixture" are pasted verbatim as each case's input, after the opening line "Here are the required inputs." A run passes when every case it exercises passes; a case not exercised in a run is recorded as not run, never as passed.
 
-**How a case is run.** Following `usage.md` section 1 ("If your model supports system prompts, place the ROLE block there; otherwise paste the prompt whole"), the prompt for the step, the fenced text block under "## Prompt" in its file, is loaded whole and byte for byte as the system prompt, and the fixture block is the user turn. Loading the whole prompt rather than the ROLE block alone keeps the instruction text as published; the file's masthead and closing line, which sit outside the fence, are not loaded.
+**How a case is run.** Following `usage.md` section 1 ("If your model supports system prompts, place the ROLE block there; otherwise paste the prompt whole"), the prompt for the step, the fenced text block under "## Prompt" in its file, is loaded whole and byte for byte as the system prompt, and the user turn is the line "Here are the required inputs." followed by the fixture block verbatim. Loading the whole prompt rather than the ROLE block alone keeps the instruction text as published; the file's masthead and closing line, which sit outside the fence, are not loaded.
 
 ## Cases
 
@@ -27,7 +27,7 @@ Recorded 18 October 2026 (KST). None is fixed at v2.3.0.
 
 ## Last run
 
-**Run T5, 18 October 2026 (KST).** Configuration: the fenced prompt block of each step as the API system prompt, byte for byte (A2 SHA-256 `c09cb31e3fc47283855f2014f4ba85071b9f1a80d176e13c3bc2d86bce5e7cd7`, A4 SHA-256 `1975e3c289899ba1c26451bcb088d10f7e9231f3bacb840ad4d3b849826568fe`, the v2.3.0 text); fixture block as the one user turn; no tools; max_tokens 16000; tested model `claude-opus-5-5`; scorer `claude-sonnet-5-5`. Evidence: [`evidence/transcripts-2026-10-18-T5/`](evidence/transcripts-2026-10-18-T5/README.md). LLM scoring is developer testing, not independent assurance.
+**Run T5, 18 October 2026 (KST).** Configuration: the fenced prompt block of each step as the API system prompt, byte for byte (A2 SHA-256 `c09cb31e3fc47283855f2014f4ba85071b9f1a80d176e13c3bc2d86bce5e7cd7`, A4 SHA-256 `1975e3c289899ba1c26451bcb088d10f7e9231f3bacb840ad4d3b849826568fe`, the v2.3.0 text); the line "Here are the required inputs." and the fixture block as the one user turn; no tools; max_tokens 16000; tested model `claude-opus-5-5`; scorer `claude-sonnet-5-5`. Evidence: [`evidence/transcripts-2026-10-18-T5/`](evidence/transcripts-2026-10-18-T5/README.md). LLM scoring is developer testing, not independent assurance.
 
 | ID | Scorer verdict | Session review | Reason |
 | --- | --- | --- | --- |
@@ -36,7 +36,7 @@ Recorded 18 October 2026 (KST). None is fixed at v2.3.0.
 
 Counts: scorer 2 PASS, 0 FAIL. Session review: 2 concur; 0 dissent; 0 instrument defect; 0 case defect.
 
-Notes on content, not scored. G1 also drafted a row for the existing enterprise objective OBJ-E02, with its measure, target and tolerance flagged as not stated, and proposed a monthly review cadence where the worked chain has quarterly. G2 scored four cells differently from the worked chain (RSK-014 Inherent I 5 and Residual L 3; OPP-003 Inherent L 4 and Velocity High) and marked each CALIBRATE with its reasoning, which is the prompt's rule for a judgment score; rating and appetite position agree with the worked chain.
+Notes on content, not scored. G1 also drafted a row for the existing enterprise objective OBJ-E02, with its measure, target and tolerance flagged as not stated, and proposed a monthly review cadence where the worked chain has quarterly. G2 scored five cells differently from the worked chain (RSK-014 Inherent I 5 and Residual L 3; OPP-003 Inherent L 4, Velocity High and Residual L 4 against 3) and marked each CALIBRATE with its reasoning, which is the prompt's rule for a judgment score; rating and appetite position agree with the worked chain.
 
 Acceptance under this file's rule ("A run passes when every case it exercises passes"): the run passes, 2 of 2. Reviewer: Michael Paik, 19 October 2026 (KST), concurs. Accepted: yes, 19 October 2026 (KST).
 
