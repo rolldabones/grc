@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.3.5 (2026-10-26)
+
+Patch release. Acceptance restated as a tolerance: the tests file is now read under the account rule, [ACCEPTANCE.md](https://github.com/rolldabones/rolldabones/blob/main/ACCEPTANCE.md), names its critical cases and records the instrument's status under that rule (accepted: A2 and A4, 2 of 2; 19 prompts untested); the README carries the same status below its masthead. No rule in the instrument changed and no run was made; the edits are to the test record and the front door. Train A of the whole-account review of 24 October 2026 (KST); prepared with Claude, approved by Michael Paik.
+
 ## v2.3.4 (2026-10-20)
 
 Patch. Independent review of 20 October 2026; changes made with Claude, approved by Michael Paik. No prompt block, fixture block or evidence file changes.
