@@ -1,5 +1,13 @@
 # Changelog
 
+## v2.3.7 (2026-11-03)
+
+Patch release. Train C of the improvement rotation (review of 24 October 2026). Prepared with Claude, approved by Michael Paik.
+
+- **README, Repository map:** the 21-line code-block tree, from which the README linked one of 46 files, becomes a linked map: method and build guides in a table, the 21 prompts by element family, templates and the worked example, then the repository files, with the run evidence last. The paragraph "How the pieces fit" is unchanged.
+- **`FOUR-FRAMES.md` v0.5.4:** the three amendment notes lose their review and session references ("Session T3 of the whole-account review of 15 October 2026 (reviewer report 07, item C6).", "Session T5 of the same review (reviewer report 07, item A8).", "Independent review of 20 October 2026."), with a dated note saying so; no frame, indicator or reading changed.
+- README, `tests.md` and `CITATION.cff` to v2.3.7; acceptance unchanged.
+
 ## v2.3.6 (2026-11-02)
 
 Patch release. README, the book's instruments: the Checklist link and count move to v5.2 and 199 questions, and the Master Reference link to v7.13, following `final-liability-rests-with-the-human-book-wip` v1.11.0 of the same day, which reissued both and deleted the superseded files the old links named. `tests.md` masthead and `CITATION.cff` to v2.3.6; no prompt or test record changed and acceptance is unchanged. Prepared with Claude, approved by Michael Paik.

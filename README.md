@@ -1,8 +1,8 @@
 # grc
 
-**Version 2.3.6 · 2026-11-02 · [CHANGELOG](CHANGELOG.md)**
+**Version 2.3.7 · 2026-11-03 · [CHANGELOG](CHANGELOG.md)**
 
-**Acceptance status ([ACCEPTANCE.md](https://github.com/rolldabones/rolldabones/blob/main/ACCEPTANCE.md), 26 October 2026, KST, unchanged at v2.3.6 of 2 November 2026):** Accepted. Run T5 (18 October 2026) passed both cases, G1 and G2, on prompts A2 and A4; neither is critical. The other 19 prompts in 03-prompts/ have no case and carry no acceptance. The account's status table is in [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md#instrument-status).
+**Acceptance status ([ACCEPTANCE.md](https://github.com/rolldabones/rolldabones/blob/main/ACCEPTANCE.md), 26 October 2026, KST, unchanged at v2.3.7 of 3 November 2026):** Accepted. Run T5 (18 October 2026) passed both cases, G1 and G2, on prompts A2 and A4; neither is critical. The other 19 prompts in 03-prompts/ have no case and carry no acceptance. The account's status table is in [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md#instrument-status).
 
 This repository is a working method for governance, risk management and compliance (GRC). It is built on the GRC Capability Model™ (Red Book) version 3.5 published by OCEG® and it exists to do three things:
 
@@ -46,36 +46,30 @@ A worked reading: a company that has just settled an enforcement action enters a
 
 ## Repository map
 
-```
-grc/
-|-- README.md                        This file: equation, notation, routing
-|-- LICENSE.md                       CC BY-SA 4.0
-|-- NOTICE.md                        OCEG attribution, trademarks, derivation scope
-|-- CHANGELOG.md                     Version history
-|-- CITATION.cff                     Machine-readable citation
-|-- FOUR-FRAMES.md                   Four-frames geopolitical sense-making entry
-|-- tests.md                         Prompt pack cases, known defects, run record
-|-- evidence/                        Logged run transcripts, one folder per run
-|-- 01-method/
-|   |-- principled-performance.md    PP, the ten Universal Outcomes, vocabulary
-|   |-- operating-cycle.md           Omega in operation: cadence, accountability, failure modes
-|   |-- elements.md                  All 20 elements: purpose, inputs, activities, outputs, measures
-|   `-- starting-points.md           SP0 to SP4: entry conditions and first-90-days plans
-|-- 02-build-guides/
-|   |-- A-policy-management.md       PERFORM-heavy walkthrough (P2 core)
-|   |-- B-risk-and-opportunity.md    ALIGN-heavy walkthrough (A2 to A5 core)
-|   |-- C-obligations-register.md    LEARN-heavy walkthrough (L1 core)
-|   `-- D-ai-governance-overlay.md   The model applied to AI systems
-|-- 03-prompts/
-|   |-- usage.md                     Design rules, input hygiene, review gate
-|   |-- L1 ... R3 (20 files)         One capability prompt per element
-|   `-- M0-maturity-self-assessment.md
-|-- 04-templates/
-|   |-- objectives-register.md       risk-register.md      obligations-register.md
-|   `-- control-matrix.md            policy-template.md    review-assurance-plan.md
-`-- 05-examples/
-    `-- sp0-worked-chain.md          The SP0 chain worked prompt by prompt (fictional)
-```
+**Method and build guides.**
+
+| File | What it holds |
+|---|---|
+| [01-method/principled-performance.md](01-method/principled-performance.md) | Principled Performance, the ten Universal Outcomes, vocabulary |
+| [01-method/operating-cycle.md](01-method/operating-cycle.md) | Omega in operation: cadence, accountability, failure modes |
+| [01-method/elements.md](01-method/elements.md) | All 20 elements: purpose, inputs, activities, outputs, measures |
+| [01-method/starting-points.md](01-method/starting-points.md) | SP0 to SP4: entry conditions and first-90-days plans |
+| [02-build-guides/A-policy-management.md](02-build-guides/A-policy-management.md) | PERFORM-heavy walkthrough (P2 core) |
+| [02-build-guides/B-risk-and-opportunity.md](02-build-guides/B-risk-and-opportunity.md) | ALIGN-heavy walkthrough (A2 to A5 core) |
+| [02-build-guides/C-obligations-register.md](02-build-guides/C-obligations-register.md) | LEARN-heavy walkthrough (L1 core) |
+| [02-build-guides/D-ai-governance-overlay.md](02-build-guides/D-ai-governance-overlay.md) | The model applied to AI systems |
+| [FOUR-FRAMES.md](FOUR-FRAMES.md) | Four-frames geopolitical sense-making entry |
+
+**Prompts.** [03-prompts/usage.md](03-prompts/usage.md) gives the design rules, input hygiene and the review gate; one capability prompt per element follows, with [M0 Maturity self-assessment](03-prompts/M0-maturity-self-assessment.md) beside them.
+
+- **LEARN:** [L1 External context](03-prompts/L1-external-context.md) · [L2 Internal context](03-prompts/L2-internal-context.md) · [L3 Culture](03-prompts/L3-culture.md) · [L4 Stakeholders](03-prompts/L4-stakeholders.md)
+- **ALIGN:** [A1 Direction](03-prompts/A1-direction.md) · [A2 Objectives](03-prompts/A2-objectives.md) · [A3 Identification](03-prompts/A3-identification.md) · [A4 Assessment](03-prompts/A4-assessment.md) · [A5 Design](03-prompts/A5-design.md)
+- **PERFORM:** [P1 Controls](03-prompts/P1-controls.md) · [P2 Policies](03-prompts/P2-policies.md) · [P3 Communication](03-prompts/P3-communication.md) · [P4 Education](03-prompts/P4-education.md) · [P5 Incentives](03-prompts/P5-incentives.md) · [P6 Notification](03-prompts/P6-notification.md) · [P7 Inquiry](03-prompts/P7-inquiry.md) · [P8 Response](03-prompts/P8-response.md)
+- **REVIEW:** [R1 Monitoring](03-prompts/R1-monitoring.md) · [R2 Assurance](03-prompts/R2-assurance.md) · [R3 Improvement](03-prompts/R3-improvement.md)
+
+**Templates and example.** [Objectives register](04-templates/objectives-register.md) · [Risk register](04-templates/risk-register.md) · [Obligations register](04-templates/obligations-register.md) · [Control matrix](04-templates/control-matrix.md) · [Policy template](04-templates/policy-template.md) · [Review and assurance plan](04-templates/review-assurance-plan.md) · [05-examples/sp0-worked-chain.md](05-examples/sp0-worked-chain.md), the SP0 chain worked prompt by prompt (fictional).
+
+**Repository files.** [tests.md](tests.md) (prompt pack cases, known defects, run record) · [NOTICE.md](NOTICE.md) (OCEG attribution, trademarks, derivation scope) · [CHANGELOG.md](CHANGELOG.md) · [CITATION.cff](CITATION.cff) · [LICENSE.md](LICENSE.md) (CC BY-SA 4.0) · [evidence/transcripts-2026-10-18-T5/](evidence/transcripts-2026-10-18-T5/README.md), the logged run transcripts, listed last because they sit behind the instruments.
 
 How the pieces fit: `01-method/` explains the model, `02-build-guides/` shows it building something, `03-prompts/` accelerates the drafting work inside each build and `04-templates/` receives the outputs as operating artifacts. The cycle then runs on those artifacts. `05-examples/` walks one chain from inputs to reviewed outputs, and `tests.md` uses it as the fixture for re-testing the prompts. Only A2 and A4 of the 21 prompts have test cases; the other 19 are untested. `FOUR-FRAMES.md` stands upstream of all four: a sense-making entry that reads the external environment through four mythological system-hypotheses with pre-registered discriminators, used alongside PESTLE and STEEPLE, whose weighted readings feed L1 External Context; its first exhibit is Carney's Davos Rupture (20 January 2026), which predates the pre-registration and is excluded from scoring, and its public exposition is [*The Gods of the New Great Game*](https://redcaps.substack.com/p/the-gods-of-the-new-great-game).
 
@@ -117,7 +111,7 @@ Original content in this repository is licensed under CC BY-SA 4.0 (`LICENSE.md`
 
 ## How to Cite
 
-> Paik, Son-U Michael. *grc*, v2.3.6. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc
+> Paik, Son-U Michael. *grc*, v2.3.7. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 

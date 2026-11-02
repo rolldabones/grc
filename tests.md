@@ -1,6 +1,6 @@
 # grc prompt pack: tests
 
-**Cases, known defects and the run record for the 21 prompts in [`03-prompts/`](03-prompts/) · v2.3.6 · 2 November 2026 (KST)**
+**Cases, known defects and the run record for the 21 prompts in [`03-prompts/`](03-prompts/) · v2.3.7 · 3 November 2026 (KST)**
 
 `03-prompts/usage.md` section 7 says to re-test after model changes. This file is what that re-test runs against. Acceptance is read under the account rule, [ACCEPTANCE.md](https://github.com/rolldabones/rolldabones/blob/main/ACCEPTANCE.md), from 26 October 2026. The fixture is the worked SP0 chain, [`05-examples/sp0-worked-chain.md`](05-examples/sp0-worked-chain.md): its blocks marked "fixture" are pasted verbatim as each case's input, after the opening line "Here are the required inputs." A run passes when every case it exercises passes; a case not exercised in a run is recorded as not run, never as passed.
 
@@ -41,7 +41,7 @@ Notes on content, not scored. G1 also drafted a row for the existing enterprise 
 
 Acceptance under this file's rule ("A run passes when every case it exercises passes"): the run passes, 2 of 2. Reviewer: Michael Paik, 19 October 2026 (KST), concurs. Accepted: yes, 19 October 2026 (KST).
 
-**Status under [ACCEPTANCE.md](https://github.com/rolldabones/rolldabones/blob/main/ACCEPTANCE.md), 26 October 2026 (KST), unchanged at v2.3.6 (2 November 2026).** Accepted. Run T5 (18 October 2026) passed both cases, G1 and G2, on prompts A2 and A4; neither is critical. The other 19 prompts in 03-prompts/ have no case and carry no acceptance. **Critical cases:** none; G1 and G2 test output structure. The acceptance sentences above were written under this file's earlier rule and are kept as the record of that review. The reviewer's concurrence with the run as recorded is read as concurrence per case (ACCEPTANCE.md (e)); each failed case keeps the disposition its session review gives it (model behavior: accepted model behavior; instrument defect: fix in the next block; case defect: case defect).
+**Status under [ACCEPTANCE.md](https://github.com/rolldabones/rolldabones/blob/main/ACCEPTANCE.md), 26 October 2026 (KST), unchanged at v2.3.7 (3 November 2026).** Accepted. Run T5 (18 October 2026) passed both cases, G1 and G2, on prompts A2 and A4; neither is critical. The other 19 prompts in 03-prompts/ have no case and carry no acceptance. **Critical cases:** none; G1 and G2 test output structure. The acceptance sentences above were written under this file's earlier rule and are kept as the record of that review. The reviewer's concurrence with the run as recorded is read as concurrence per case (ACCEPTANCE.md (e)); each failed case keeps the disposition its session review gives it (model behavior: accepted model behavior; instrument defect: fix in the next block; case defect: case defect).
 
 History: no earlier run of any prompt in this pack is published. Whether the prompts were tested against a fixture before 18 October 2026 is Unknown.
 

@@ -1,10 +1,11 @@
 # Four Frames for the New Great Game
 
-**GRCnext™ method entry · v0.5.3 · [✓ final]**
+**GRCnext™ method entry · v0.5.4 · [✓ final]**
 Author: Son-U Michael Paik · CEO, GRC Solutions Korea (personal frames) · Date: 2026-08-23 (Asia/Seoul, UTC+9) · Supersedes: v0.4 and earlier (all 2026-08-23)
-Amendment note, 17 October 2026 (KST): v0.5.1 corrects house style only (the byline to the account form, the GRCnext™ mark in Section 4 and one serial comma in Section 9); no frame, indicator or reading changed. Session T3 of the whole-account review of 15 October 2026 (reviewer report 07, item C6).
-Amendment note, 18 October 2026 (KST): v0.5.2 strikes one completed outstanding item (the ECOSYSTEM.md entries, made on 23 August 2026 at ECOSYSTEM.md v1.7.9); no frame, indicator or reading changed. Session T5 of the same review (reviewer report 07, item A8).
-Amendment note, 20 October 2026 (KST): v0.5.3 corrects the Carney speech date to Tuesday 20 January 2026 and cites the official transcript as primary; discloses that the Carney exhibit predates the 2026-08-23 pre-registration and excludes it from scoring; bolds the closing line. No frame, indicator or reading changed. Independent review of 20 October 2026.
+Amendment note, 17 October 2026 (KST): v0.5.1 corrects house style only (the byline to the account form, the GRCnext™ mark in Section 4 and one serial comma in Section 9); no frame, indicator or reading changed.
+Amendment note, 18 October 2026 (KST): v0.5.2 strikes one completed outstanding item (the ECOSYSTEM.md entries, made on 23 August 2026 at ECOSYSTEM.md v1.7.9); no frame, indicator or reading changed.
+Amendment note, 20 October 2026 (KST): v0.5.3 corrects the Carney speech date to Tuesday 20 January 2026 and cites the official transcript as primary; discloses that the Carney exhibit predates the 2026-08-23 pre-registration and excludes it from scoring; bolds the closing line. No frame, indicator or reading changed.
+Amendment note, 3 November 2026 (KST): v0.5.4 removes the review and session references from the three notes above; no frame, indicator or reading changed.
 Ecosystem placement: grc repository (Layer 1: Doctrine and method) · [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) · Public exposition: [*The Gods of the New Great Game*](https://redcaps.substack.com/p/the-gods-of-the-new-great-game) (23 August 2026)
 
 ---
