@@ -1,8 +1,8 @@
 # grc
 
-**Version 2.3.7 · 2026-11-03 · [CHANGELOG](CHANGELOG.md)**
+**Version 2.3.8 · 2026-11-09 · [CHANGELOG](CHANGELOG.md)**
 
-**Acceptance status ([ACCEPTANCE.md](https://github.com/rolldabones/rolldabones/blob/main/ACCEPTANCE.md), 26 October 2026, KST, unchanged at v2.3.7 of 3 November 2026):** Accepted. Run T5 (18 October 2026) passed both cases, G1 and G2, on prompts A2 and A4; neither is critical. The other 19 prompts in 03-prompts/ have no case and carry no acceptance. The account's status table is in [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md#instrument-status).
+**Acceptance status ([ACCEPTANCE.md](https://github.com/rolldabones/rolldabones/blob/main/ACCEPTANCE.md), 26 October 2026, KST, unchanged at v2.3.8 of 9 November 2026):** Accepted. Run T5 (18 October 2026) passed both cases, G1 and G2, on prompts A2 and A4; neither is critical. The other 19 prompts in 03-prompts/ have no case and carry no acceptance. The account's status table is in [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md#instrument-status).
 
 This repository is a working method for governance, risk management and compliance (GRC). It is built on the GRC Capability Model™ (Red Book) version 3.5 published by OCEG® and it exists to do three things:
 
@@ -109,9 +109,11 @@ Book-appendix instruments:
 
 Original content in this repository is licensed under CC BY-SA 4.0 (`LICENSE.md`). The GRC Capability Model™ is the work of OCEG®; see `NOTICE.md` for attribution, trademark and derivation scope.
 
+Commercial use is permitted under this license; how it sits beside the account's NonCommercial repositories is set out in [LICENSING.md](https://github.com/rolldabones/rolldabones/blob/main/LICENSING.md).
+
 ## How to Cite
 
-> Paik, Son-U Michael. *grc*, v2.3.7. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc
+> Paik, Son-U Michael. *grc*, v2.3.8. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 

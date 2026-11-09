@@ -1,5 +1,12 @@
 # Changelog
 
+## v2.3.8 (2026-11-09)
+
+Patch release. Train D of the improvement rotation (review of 24 October 2026). Prepared with Claude, approved by Michael Paik.
+
+- README, License: one line points to `rolldabones/LICENSING.md` (v1.0.0, new), which states once what the account's two licenses permit, that a Client's use in its own operations may fall outside NonCommercial, how to ask and why the two licenses do not mix.
+- README, `tests.md` and `CITATION.cff` to v2.3.8; no other file changed.
+
 ## v2.3.7 (2026-11-03)
 
 Patch release. Train C of the improvement rotation (review of 24 October 2026). Prepared with Claude, approved by Michael Paik.
