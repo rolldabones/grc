@@ -1,5 +1,13 @@
 # Changelog
 
+## v2.3.9 (2026-11-10)
+
+Patch release. Train T-A of the improvement rotation (account review of 10 November 2026, High findings, rulings of Michael Paik of that day). Prepared with Claude, approved by Michael Paik.
+
+- README, Part of the ecosystem: the AI-Impact-Assessment-Tool neighbor line said the tool is "aligned to" ISO/IEC 42005; it now carries ECOSYSTEM.md's qualifier, mapped by topic to ISO/IEC 42005 (clauses not cited).
+- README, Book-appendix instruments: the links to `AI_Audit_Due_Diligence_Checklist_v5_2.md` and `AI_GRC_Master_Reference_v7_13.md` broke when the book released v1.12.0 (10 November 2026), which renamed them v5.3 and v7.14; they now point to the files on the book's main branch. The checklist still carries 199 questions.
+- README, `tests.md` and `CITATION.cff` to v2.3.9; no prompt, case or run record changed; acceptance unchanged.
+
 ## v2.3.8 (2026-11-09)
 
 Patch release. Train D of the improvement rotation (review of 24 October 2026). Prepared with Claude, approved by Michael Paik.
