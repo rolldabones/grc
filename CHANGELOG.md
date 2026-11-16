@@ -1,5 +1,12 @@
 # Changelog
 
+## v2.3.10 (2026-11-16)
+
+Patch release. The book reissued its Appendices I and J on 16 November 2026 (book v1.12.5, `PLAN-v1.13.md` item 12) as `AI_Audit_Due_Diligence_Checklist_v5_4.md` and `AI_GRC_Master_Reference_v7_15.md`, removing v5.3 and v7.14; the two Book-appendix instrument links would otherwise break, as on 10 November 2026 (v2.3.9). Prepared with Claude, approved by Michael Paik.
+
+- README, Book-appendix instruments: both links and labels to v5.4 and v7.15, on the book's main branch. The descriptions are unchanged.
+- README, `tests.md` and `CITATION.cff` to v2.3.10; no prompt, case or run record changed; acceptance unchanged.
+
 ## v2.3.9 (2026-11-10)
 
 Patch release. Train T-A of the improvement rotation (account review of 10 November 2026, High findings, rulings of Michael Paik of that day). Prepared with Claude, approved by Michael Paik.
