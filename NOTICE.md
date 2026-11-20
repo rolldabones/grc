@@ -12,6 +12,10 @@ The following originate in the Red Book and are used here to describe and implem
 
 All explanations, expansions, build guides, prompts and templates in this repository are original works in original wording, written at summary depth. **This repository does not reproduce Red Book text.** Readers who need the model's detailed practices should obtain the Red Book from OCEG.
 
+## Other works cited
+
+`01-method/ten-tools.md` draws on two further works. The Ten Tools and the Ten Step Method for mapping corporate entities are the author's own, from *Ten Tools for In-House Lawyers* (Son-U Michael Paik), which he wrote and holds the rights to. The Business Model Canvas is the work of Alexander Osterwalder and Yves Pigneur, *Business Model Generation*, referred to nominatively to describe its nine blocks; this repository reproduces none of its text.
+
 ## Trademarks
 
 OCEG® and Principled Performance® are registered trademarks of OCEG. GRC Capability Model™ is a trademark of OCEG. These marks are used in this repository nominatively, to refer to OCEG and its published work. This repository is not affiliated with, sponsored by or endorsed by OCEG.

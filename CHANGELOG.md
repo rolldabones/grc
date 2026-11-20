@@ -1,5 +1,15 @@
 # Changelog
 
+## v2.4.0 (2026-11-20)
+
+Minor release: a new method file, `01-method/ten-tools.md`. A new file is a minor release. Under Michael Paik's reopening of the no-further-additions rule for exactly two additions, this file and a Preface section in the book (account-maintenance `DECISIONS.md` section A, 20 November 2026). Prepared with Claude, approved by Michael Paik.
+
+- **`01-method/ten-tools.md` (about 1,500 words).** The author's Ten Tools for in-house lawyers, from *Ten Tools for In-House Lawyers*, read as an incoming General Counsel's SP0 Blank Canvas entry kit. Each tool states what it is, the Ω elements and prompts it feeds (only identifiers defined in `elements.md` and `03-prompts/`) and the starting point it serves. It carries the known-knowns grid as a four-row table routed to Ω elements, the Ten Step Method for mapping corporate entities in a three-pass layout, the Business Model Canvas by its nine blocks (credited to Osterwalder and Pigneur, *Business Model Generation*) with the handbook's three closing questions, contracts read as five views, due diligence, valuation and integration run together, and litigation outsourced and actively managed.
+- **`01-method/starting-points.md`:** SP0 gains one pointer line to the new file.
+- **README:** the repository map gains a row for `01-method/ten-tools.md`.
+- **`NOTICE.md`:** an Other works cited section adds the author's handbook and the Osterwalder and Pigneur credit.
+- README, `tests.md` and `CITATION.cff` to v2.4.0; no prompt, case or run record changed; acceptance unchanged. `ECOSYSTEM.md`'s grc description does not enumerate the method files and stays accurate; reported, not edited.
+
 ## v2.3.10 (2026-11-16)
 
 Patch release. The book reissued its Appendices I and J on 16 November 2026 (book v1.12.5, `PLAN-v1.13.md` item 12) as `AI_Audit_Due_Diligence_Checklist_v5_4.md` and `AI_GRC_Master_Reference_v7_15.md`, removing v5.3 and v7.14; the two Book-appendix instrument links would otherwise break, as on 10 November 2026 (v2.3.9). Prepared with Claude, approved by Michael Paik.

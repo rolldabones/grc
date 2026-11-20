@@ -20,6 +20,8 @@ The plans below assume a capable owner with partial time and modest support. Sca
 
 **Good at day 90 looks like:** every artifact traceable to an objective; an open intake channel; a named owner for Ω.
 
+**Entry kit.** An incoming General Counsel can work this sequence with the author's Ten Tools, mapped onto Ω element by element in `ten-tools.md`.
+
 ## SP1 Topical
 
 **Entry condition.** A topic is burning: AI, privacy, sanctions, anti-corruption, safety. Leadership wants the topic handled, not a program.

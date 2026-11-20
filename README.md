@@ -1,8 +1,8 @@
 # grc
 
-**Version 2.3.10 · 2026-11-16 · [CHANGELOG](CHANGELOG.md)**
+**Version 2.4.0 · 2026-11-20 · [CHANGELOG](CHANGELOG.md)**
 
-**Acceptance status ([ACCEPTANCE.md](https://github.com/rolldabones/rolldabones/blob/main/ACCEPTANCE.md), 26 October 2026, KST, unchanged at v2.3.10 of 16 November 2026):** Accepted. Run T5 (18 October 2026) passed both cases, G1 and G2, on prompts A2 and A4; neither is critical. The other 19 prompts in 03-prompts/ have no case and carry no acceptance. The account's status table is in [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md#instrument-status).
+**Acceptance status ([ACCEPTANCE.md](https://github.com/rolldabones/rolldabones/blob/main/ACCEPTANCE.md), 26 October 2026, KST, unchanged at v2.4.0 of 20 November 2026):** Accepted. Run T5 (18 October 2026) passed both cases, G1 and G2, on prompts A2 and A4; neither is critical. The other 19 prompts in 03-prompts/ have no case and carry no acceptance. The account's status table is in [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md#instrument-status).
 
 This repository is a working method for governance, risk management and compliance (GRC). It is built on the GRC Capability Model™ (Red Book) version 3.5 published by OCEG® and it exists to do three things:
 
@@ -54,6 +54,7 @@ A worked reading: a company that has just settled an enforcement action enters a
 | [01-method/operating-cycle.md](01-method/operating-cycle.md) | Omega in operation: cadence, accountability, failure modes |
 | [01-method/elements.md](01-method/elements.md) | All 20 elements: purpose, inputs, activities, outputs, measures |
 | [01-method/starting-points.md](01-method/starting-points.md) | SP0 to SP4: entry conditions and first-90-days plans |
+| [01-method/ten-tools.md](01-method/ten-tools.md) | The author's Ten Tools for in-house lawyers, mapped onto Ω as an SP0 entry kit |
 | [02-build-guides/A-policy-management.md](02-build-guides/A-policy-management.md) | PERFORM-heavy walkthrough (P2 core) |
 | [02-build-guides/B-risk-and-opportunity.md](02-build-guides/B-risk-and-opportunity.md) | ALIGN-heavy walkthrough (A2 to A5 core) |
 | [02-build-guides/C-obligations-register.md](02-build-guides/C-obligations-register.md) | LEARN-heavy walkthrough (L1 core) |
@@ -113,7 +114,7 @@ Commercial use is permitted under this license; how it sits beside the account's
 
 ## How to Cite
 
-> Paik, Son-U Michael. *grc*, v2.3.10. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc
+> Paik, Son-U Michael. *grc*, v2.4.0. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 
