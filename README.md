@@ -1,8 +1,8 @@
 # grc
 
-**Version 2.4.0 · 2026-11-20 · [CHANGELOG](CHANGELOG.md)**
+**Version 2.4.1 · 2026-11-20 · [CHANGELOG](CHANGELOG.md)**
 
-**Acceptance status ([ACCEPTANCE.md](https://github.com/rolldabones/rolldabones/blob/main/ACCEPTANCE.md), 26 October 2026, KST, unchanged at v2.4.0 of 20 November 2026):** Accepted. Run T5 (18 October 2026) passed both cases, G1 and G2, on prompts A2 and A4; neither is critical. The other 19 prompts in 03-prompts/ have no case and carry no acceptance. The account's status table is in [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md#instrument-status).
+**Acceptance status ([ACCEPTANCE.md](https://github.com/rolldabones/rolldabones/blob/main/ACCEPTANCE.md), 26 October 2026, KST, unchanged at v2.4.1 of 20 November 2026):** Accepted. Run T5 (18 October 2026) passed both cases, G1 and G2, on prompts A2 and A4; neither is critical. The other 19 prompts in 03-prompts/ have no case and carry no acceptance. The account's status table is in [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md#instrument-status).
 
 This repository is a working method for governance, risk management and compliance (GRC). It is built on the GRC Capability Model™ (Red Book) version 3.5 published by OCEG® and it exists to do three things:
 
@@ -103,8 +103,8 @@ Nearest neighbors:
 - [AI-Impact-Assessment-Tool](https://github.com/rolldabones/AI-Impact-Assessment-Tool): pre-deployment and lifecycle impact assessment against the EU AI Act, ISO/IEC 42001 and NIST AI RMF, mapped by topic to ISO/IEC 42005 (clauses not cited)
 
 Book-appendix instruments:
-- [AI Audit DD Checklist v5.4](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/main/AI_Audit_Due_Diligence_Checklist_v5_4.md): 199-question due diligence instrument with stable question IDs (App I)
-- [AI GRC Master Reference v7.15](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/main/AI_GRC_Master_Reference_v7_15.md): consolidated regulatory and framework reference (App J)
+- [AI Audit DD Checklist v5.5](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/main/AI_Audit_Due_Diligence_Checklist_v5_5.md): 205-question due diligence instrument with stable question IDs (App I)
+- [AI GRC Master Reference v7.16](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/main/AI_GRC_Master_Reference_v7_16.md): consolidated regulatory and framework reference (App J)
 
 ## License and attribution
 
@@ -114,7 +114,7 @@ Commercial use is permitted under this license; how it sits beside the account's
 
 ## How to Cite
 
-> Paik, Son-U Michael. *grc*, v2.4.0. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc
+> Paik, Son-U Michael. *grc*, v2.4.1. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 

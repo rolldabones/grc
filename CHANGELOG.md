@@ -1,5 +1,12 @@
 # Changelog
 
+## v2.4.1 (2026-11-20)
+
+Patch release. The book reissued its Appendices I and J on 18 November 2026 (book v1.12.7) as `AI_Audit_Due_Diligence_Checklist_v5_5.md` (205 questions) and `AI_GRC_Master_Reference_v7_16.md`, removing v5.4 and v7.15; the two Book-appendix instrument links would otherwise break. Prepared with Claude, approved by Michael Paik.
+
+- README, Book-appendix instruments: both links and labels to v5.5 (205 questions) and v7.16, on the book's main branch. The descriptions are unchanged.
+- README (masthead, acceptance line, How to Cite), `tests.md` and `CITATION.cff` to v2.4.1; no prompt, case or run record changed; acceptance unchanged.
+
 ## v2.4.0 (2026-11-20)
 
 Minor release: a new method file, `01-method/ten-tools.md`. A new file is a minor release. Under Michael Paik's reopening of the no-further-additions rule for exactly two additions, this file and a Preface section in the book (account-maintenance `DECISIONS.md` section A, 20 November 2026). Prepared with Claude, approved by Michael Paik.
