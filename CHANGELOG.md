@@ -1,5 +1,14 @@
 # Changelog
 
+## v2.4.2 (2026-11-21)
+
+Patch release: a "complete" of Tool 9 of `01-method/ten-tools.md` under the no-further-additions rule, on Michael Paik's ruling of 20 November 2026 (account-maintenance `DECISIONS.md` section A). No new file, prompt, case or element. Prepared with Claude, approved by Michael Paik.
+
+- **`01-method/ten-tools.md`, Tool 9:** one paragraph and one four-row table pairing the knowledge states of the author's M&A workshop (2016) with their deal mechanisms (Knowns: disclosures and representations; Knowables: due diligence and covenants; Wrongly "Known": warranties and the post-closing memo; Unknowns: escrow and guarantee), with the T0 to T1 tool box and the endogenous and exogenous split, each mapped to elements already used in the file (L1, L2, A3, A4, P7). Cited to the workshop beside *Ten Tools*, p. 31. The pairing is Michael Paik's, confirmed 20 November 2026; the slides list the states and the mechanisms without pairing every one.
+- **Tool 2:** one sentence naming Wrongly "Known" as a state the grid does not show; the four-quadrant table is unchanged.
+- **Sources and `NOTICE.md`:** the workshop added as the author's own work, by date and audience only (slides 10 to 14; nothing else used).
+- README (masthead, acceptance line, the ten-tools map row, How to Cite), `tests.md` and `CITATION.cff` to v2.4.2; acceptance unchanged.
+
 ## v2.4.1 (2026-11-20)
 
 Patch release. The book reissued its Appendices I and J on 18 November 2026 (book v1.12.7) as `AI_Audit_Due_Diligence_Checklist_v5_5.md` (205 questions) and `AI_GRC_Master_Reference_v7_16.md`, removing v5.4 and v7.15; the two Book-appendix instrument links would otherwise break. Prepared with Claude, approved by Michael Paik.

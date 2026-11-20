@@ -17,7 +17,7 @@ Sort risk with the known-knowns grid, then route each quadrant to a response. Th
 | Known unknowns | Training for the legal team, Education for the Client | P4 Education |
 | Unknown unknowns | No system; hold slack capacity, let "good enough is good enough" govern the rest | R1 Monitoring, against the appetite set in A1 Direction |
 
-The last quadrant is the one the method cannot design away: capacity kept in reserve, watched by **R1 Monitoring** and bounded by the appetite stated in **A1 Direction**. Serves SP0 first, and SP1 Topical when one risk is already burning. Prompts: `A3`, `A4`, then `A5`, `P3`, `P4`.
+The author's mergers and acquisitions (M&A) workshop (2016) names a state the grid does not show, Wrongly "Known": a risk treated as a known known that is not one; Tool 9 pairs it with its deal mechanism. The last quadrant is the one the method cannot design away: capacity kept in reserve, watched by **R1 Monitoring** and bounded by the appetite stated in **A1 Direction**. Serves SP0 first, and SP1 Topical when one risk is already burning. Prompts: `A3`, `A4`, then `A5`, `P3`, `P4`.
 
 ## Tool 3: Speed-learning
 
@@ -53,7 +53,18 @@ Build competence on both sides of the desk: training for the legal team, educati
 
 ## Tool 9: Advisory (M&A)
 
-Treat due diligence, valuation and integration as one activity, run together by the same people or in close communication, started early (Ten Tools, p. 31), so that the information the lawyer earns in diligence is used in the price and in the plan rather than filed and forgotten. Diligence is an **L1 External Context** and **L2 Internal Context** read, built on the entity map of Tool 4; its findings populate **A3 Identification** and **A4 Assessment**, and the inquiry discipline is **P7 Inquiry**. Serves SP2 Discipline and SP1 Topical. Prompts: `A3`, `A4`, `P7`.
+Treat due diligence, valuation and integration as one activity, run together by the same people or in close communication, started early (Ten Tools, p. 31), so that the information the lawyer earns in diligence is used in the price and in the plan rather than filed and forgotten. Diligence is an **L1 External Context** and **L2 Internal Context** read, built on the entity map of Tool 4; its findings populate **A3 Identification** and **A4 Assessment**, and the inquiry discipline is **P7 Inquiry**.
+
+The diligence runs on a knowledge ladder (the author's M&A workshop, 2016; Ten Tools, p. 31). What a buyer holds about a target falls into four knowledge states, and each is carried by a different deal mechanism from the closing (T0) to the period after it (T1). Risks arise inside the target (endogenous) and outside it (exogenous), so the read runs on both **L2 Internal Context** and **L1 External Context**. At T1 the tool box turns the deal documents into bound volumes and the post-closing memos into "To Do's", and takes in the contracts, including those with employees. Two questions run through it: who does what, and who knows what. The answers come from asking, looking and listening, as in Tool 1.
+
+| Knowledge state | What it is | Deal mechanism | Ω element |
+|---|---|---|---|
+| Knowns | Facts the buyer already holds | Disclosures and representations | A3 Identification |
+| Knowables | Facts the buyer can learn by asking before closing | Due diligence and covenants | L1 External Context, L2 Internal Context, P7 Inquiry |
+| Wrongly "Known" | Facts the buyer believes and that are false | Warranties and the post-closing memo | P7 Inquiry, A4 Assessment |
+| Unknowns | Facts no inquiry before closing can find | Escrow and guarantee | A4 Assessment |
+
+Serves SP2 Discipline and SP1 Topical. Prompts: `A3`, `A4`, `P7`.
 
 ## Tool 10: Litigation support and management
 
@@ -65,7 +76,7 @@ The Ten Tools are LEARN-and-build instruments, not a rival cycle. Tools 1 and 3 
 
 ## Sources
 
-The Ten Tools and the Ten Step Method are the author's own, from *Ten Tools for In-House Lawyers*. The Business Model Canvas is the work of Alexander Osterwalder and Yves Pigneur, *Business Model Generation*. The element, starting-point and outcome names are OCEG's; see `NOTICE.md`.
+The Ten Tools and the Ten Step Method are the author's own, from *Ten Tools for In-House Lawyers*. The knowledge ladder and the T0 to T1 tool box in Tool 9 are the author's own, from slides 10 to 14 of the mergers and acquisitions workshop he gave to an in-house legal team in December 2016, rendered here in English from the Korean; nothing else from the workshop is used. The Business Model Canvas is the work of Alexander Osterwalder and Yves Pigneur, *Business Model Generation*. The element, starting-point and outcome names are OCEG's; see `NOTICE.md`.
 
 ---
 
