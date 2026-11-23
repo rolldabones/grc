@@ -1,8 +1,8 @@
 # grc
 
-**Version 2.4.2 · 2026-11-21 · [CHANGELOG](CHANGELOG.md)**
+**Version 2.4.3 · 2026-11-23 · [CHANGELOG](CHANGELOG.md)**
 
-**Acceptance status ([ACCEPTANCE.md](https://github.com/rolldabones/rolldabones/blob/main/ACCEPTANCE.md), 26 October 2026, KST, unchanged at v2.4.2 of 21 November 2026):** Accepted. Run T5 (18 October 2026) passed both cases, G1 and G2, on prompts A2 and A4; neither is critical. The other 19 prompts in 03-prompts/ have no case and carry no acceptance. The account's status table is in [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md#instrument-status).
+**Acceptance status ([ACCEPTANCE.md](https://github.com/rolldabones/rolldabones/blob/main/ACCEPTANCE.md), 26 October 2026, KST, unchanged at v2.4.3 of 23 November 2026):** Accepted. Run T5 (18 October 2026) passed both cases, G1 and G2, on prompts A2 and A4; neither is critical. The other 19 prompts in 03-prompts/ have no case and carry no acceptance. The account's status table is in [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md#instrument-status).
 
 This repository is a working method for governance, risk management and compliance (GRC). It is built on the GRC Capability Model™ (Red Book) version 3.5 published by OCEG® and it exists to do three things:
 
@@ -114,7 +114,7 @@ Commercial use is permitted under this license; how it sits beside the account's
 
 ## How to Cite
 
-> Paik, Son-U Michael. *grc*, v2.4.2. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc
+> Paik, Son-U Michael. *grc*, v2.4.3. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 

@@ -1,5 +1,13 @@
 # Changelog
 
+## v2.4.3 (2026-11-23)
+
+Patch release: a lineage citation in `01-method/ten-tools.md`, under Michael Paik's reopening of the no-further-additions rule for this one item on 23 November 2026 (Guild House evaluation, ruling 3; account-maintenance `DECISIONS.md` section A). No new file, prompt, case or element. Prepared with Claude, approved by Michael Paik.
+
+- **`01-method/ten-tools.md`, Sources:** one sentence naming the predecessor of *Ten Tools for In-House Lawyers*, the author's handbook *Building the Global Legal Function at Korean Conglomerates* (2008, from the PDF's creation date), released by him for free copying and distribution, and its sequence of identification, diagnosis, mitigation and in-house management of legal risk as the department-level form of the work the Ten Tools equip a single lawyer to do. Nothing from it is reproduced.
+- **`NOTICE.md`:** the handbook named as the author's own, cited as lineage only.
+- README (masthead, acceptance line, How to Cite), `tests.md` and `CITATION.cff` to v2.4.3; acceptance unchanged.
+
 ## v2.4.2 (2026-11-21)
 
 Patch release: a "complete" of Tool 9 of `01-method/ten-tools.md` under the no-further-additions rule, on Michael Paik's ruling of 20 November 2026 (account-maintenance `DECISIONS.md` section A). No new file, prompt, case or element. Prepared with Claude, approved by Michael Paik.

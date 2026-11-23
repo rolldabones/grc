@@ -76,7 +76,7 @@ The Ten Tools are LEARN-and-build instruments, not a rival cycle. Tools 1 and 3 
 
 ## Sources
 
-The Ten Tools and the Ten Step Method are the author's own, from *Ten Tools for In-House Lawyers*. The knowledge ladder and the T0 to T1 tool box in Tool 9 are the author's own, from slides 10 to 14 of the mergers and acquisitions workshop he gave to an in-house legal team in December 2016, rendered here in English from the Korean; nothing else from the workshop is used. The Business Model Canvas is the work of Alexander Osterwalder and Yves Pigneur, *Business Model Generation*. The element, starting-point and outcome names are OCEG's; see `NOTICE.md`.
+The Ten Tools and the Ten Step Method are the author's own, from *Ten Tools for In-House Lawyers*. Their lineage runs back to the author's earlier handbook, *Building the Global Legal Function at Korean Conglomerates* (2008), on how Korean multinationals could establish a global legal and compliance function, which he released for free copying and distribution; its sequence of identification, diagnosis, mitigation and in-house management of legal risk is the department-level form of the work the Ten Tools equip a single lawyer to do. Nothing from it is reproduced here. The knowledge ladder and the T0 to T1 tool box in Tool 9 are the author's own, from slides 10 to 14 of the mergers and acquisitions workshop he gave to an in-house legal team in December 2016, rendered here in English from the Korean; nothing else from the workshop is used. The Business Model Canvas is the work of Alexander Osterwalder and Yves Pigneur, *Business Model Generation*. The element, starting-point and outcome names are OCEG's; see `NOTICE.md`.
 
 ---
 

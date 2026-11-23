@@ -14,7 +14,7 @@ All explanations, expansions, build guides, prompts and templates in this reposi
 
 ## Other works cited
 
-`01-method/ten-tools.md` draws on three further works. The Ten Tools and the Ten Step Method for mapping corporate entities are the author's own, from *Ten Tools for In-House Lawyers* (Son-U Michael Paik), which he wrote and holds the rights to. The knowledge ladder in Tool 9 is also the author's own, from his mergers and acquisitions workshop of December 2016; no other workshop material is reproduced. The Business Model Canvas is the work of Alexander Osterwalder and Yves Pigneur, *Business Model Generation*, referred to nominatively to describe its nine blocks; this repository reproduces none of its text.
+`01-method/ten-tools.md` draws on three further works. The Ten Tools and the Ten Step Method for mapping corporate entities are the author's own, from *Ten Tools for In-House Lawyers* (Son-U Michael Paik), which he wrote and holds the rights to. The author's earlier handbook, *Building the Global Legal Function at Korean Conglomerates* (2008), is cited as lineage only; none of its text is reproduced. The knowledge ladder in Tool 9 is also the author's own, from his mergers and acquisitions workshop of December 2016; no other workshop material is reproduced. The Business Model Canvas is the work of Alexander Osterwalder and Yves Pigneur, *Business Model Generation*, referred to nominatively to describe its nine blocks; this repository reproduces none of its text.
 
 ## Trademarks
 
