@@ -1,8 +1,10 @@
 # grc
 
-**Version 2.4.3 · 2026-11-23 · [CHANGELOG](CHANGELOG.md)**
+> **Archived edition of 26 November 2026.** This repository is archived and read-only. It receives no corrections, legal ones included: verify every statement of law, regulation or standard against a current primary source before you rely on it. What I maintain, and why this repository is not part of it, is in [DISPOSITION.md](https://github.com/rolldabones/rolldabones/blob/main/DISPOSITION.md). Cite this edition as *grc*, v2.4.4 (26 November 2026). The license and [LICENSING.md](https://github.com/rolldabones/rolldabones/blob/main/LICENSING.md) still apply. Reach me at sonupaik@gmail.com. Its last test is stated under Last test below. The quarterly scoring of FOUR-FRAMES.md stops with this edition.
 
-**Acceptance status ([ACCEPTANCE.md](https://github.com/rolldabones/rolldabones/blob/main/ACCEPTANCE.md), 26 October 2026, KST, unchanged at v2.4.3 of 23 November 2026):** Accepted. Run T5 (18 October 2026) passed both cases, G1 and G2, on prompts A2 and A4; neither is critical. The other 19 prompts in 03-prompts/ have no case and carry no acceptance. The account's status table is in [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md#instrument-status).
+**Version 2.4.4 · 2026-11-26 · Archived edition · [CHANGELOG](CHANGELOG.md)**
+
+**Last test, as this edition (v2.4.4) records it ([ACCEPTANCE.md](https://github.com/rolldabones/rolldabones/blob/main/ACCEPTANCE.md), 26 October 2026, KST, unchanged at v2.4.3 of 23 November 2026):** Accepted. Run T5 (18 October 2026) passed both cases, G1 and G2, on prompts A2 and A4; neither is critical. The other 19 prompts in 03-prompts/ have no case and carry no acceptance. Run on `claude-opus-5-5` and scored by `claude-sonnet-5-5`. No later run exists and none will be made. The run record and the known defects are in [`tests.md`](tests.md), and the transcripts stay in this repository where that file links them, frozen at tag v2.4.4; ask at sonupaik@gmail.com. The account's status table is in [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md#instrument-status).
 
 This repository is a working method for governance, risk management and compliance (GRC). It is built on the GRC Capability Model™ (Red Book) version 3.5 published by OCEG® and it exists to do three things:
 
@@ -114,7 +116,7 @@ Commercial use is permitted under this license; how it sits beside the account's
 
 ## How to Cite
 
-> Paik, Son-U Michael. *grc*, v2.4.3. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc
+> Paik, Son-U Michael. *grc*, v2.4.4. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 

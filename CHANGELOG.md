@@ -1,5 +1,13 @@
 # Changelog
 
+## v2.4.4 (2026-11-26)
+
+Final release: the archived edition. On Michael Paik's ruling of 26 November 2026, recorded in [DISPOSITION.md](https://github.com/rolldabones/rolldabones/blob/main/DISPOSITION.md): the repository is archived in place as a dated edition and receives no corrections after this release. Prepared with Claude, approved by Michael Paik.
+
+- **README:** the archive banner under the title, with the edition date, the version to cite and where the maintained work is. Each acceptance line reads "Last test"; the status it states is unchanged, and no known defect is removed. The line says where the run record and the transcripts are and that they are frozen at this tag.
+- Nothing is removed, renamed or moved, and every other file is unchanged byte for byte.
+- README and `CITATION.cff` to v2.4.4.
+
 ## v2.4.3 (2026-11-23)
 
 Patch release: a lineage citation in `01-method/ten-tools.md`, under Michael Paik's reopening of the no-further-additions rule for this one item on 23 November 2026 (Guild House evaluation, ruling 3; account-maintenance `DECISIONS.md` section A). No new file, prompt, case or element. Prepared with Claude, approved by Michael Paik.
